@@ -1,5 +1,7 @@
 # Learning
-.
+https://chatgpt.com/share/6ae1e9f2-0b08-83e8-985c-604cd437359d
+
+
 # Learning Plan for 4 weeks
 
 Concentrated on -  Applied AI + RAG and Abstractive Summarization of Medical / Clinical Documents.
