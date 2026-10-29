@@ -1,0 +1,926 @@
+[
+  {
+    "query_id": "Q001",
+    "query_text": "wheezing and tight chest, needing rescue inhaler often",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0049",
+      "MR0079",
+      "MR0086",
+      "MR0105",
+      "MR0141",
+      "MR0159",
+      "MR0210",
+      "MR0235"
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "query_text": "fever with productive cough and lung infection on x-ray",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0037",
+      "MR0047",
+      "MR0091",
+      "MR0132",
+      "MR0137",
+      "MR0217",
+      "MR0220",
+      "MR0268",
+      "MR0271",
+      "MR0282"
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "query_text": "longtime smoker getting more breathless with more sputum",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0075",
+      "MR0097",
+      "MR0109",
+      "MR0144",
+      "MR0149",
+      "MR0153",
+      "MR0186",
+      "MR0192",
+      "MR0218"
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "query_text": "cold symptoms with stuffy nose and sore throat",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0028",
+      "MR0068",
+      "MR0134",
+      "MR0165",
+      "MR0182",
+      "MR0206",
+      "MR0257",
+      "MR0266",
+      "MR0292"
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "query_text": "chest pressure spreading to the arm with sweating",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0018",
+      "MR0021",
+      "MR0069",
+      "MR0098",
+      "MR0145",
+      "MR0181",
+      "MR0199",
+      "MR0229",
+      "MR0291"
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "query_text": "follow-up visit for high blood pressure readings",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0007",
+      "MR0011",
+      "MR0065",
+      "MR0126",
+      "MR0139",
+      "MR0158",
+      "MR0227",
+      "MR0261"
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "query_text": "irregular heartbeat and palpitations",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0013",
+      "MR0039",
+      "MR0085",
+      "MR0117",
+      "MR0171",
+      "MR0214",
+      "MR0216",
+      "MR0244"
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "query_text": "leg swelling and trouble breathing when lying flat",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0005",
+      "MR0030",
+      "MR0051",
+      "MR0053",
+      "MR0121",
+      "MR0135",
+      "MR0138",
+      "MR0140",
+      "MR0288"
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "query_text": "neck pain and stiffness after being rear-ended",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0006",
+      "MR0022",
+      "MR0034",
+      "MR0089",
+      "MR0114",
+      "MR0166",
+      "MR0167",
+      "MR0184",
+      "MR0190",
+      "MR0222",
+      "MR0243"
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "query_text": "lower back pain after lifting something heavy",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0113",
+      "MR0136",
+      "MR0143",
+      "MR0147",
+      "MR0185",
+      "MR0190",
+      "MR0202",
+      "MR0205",
+      "MR0209",
+      "MR0262"
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "query_text": "knee locking and clicking after a twisting injury",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0080",
+      "MR0112",
+      "MR0131",
+      "MR0168",
+      "MR0191",
+      "MR0193",
+      "MR0238",
+      "MR0250",
+      "MR0272"
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "query_text": "shoulder pain when raising the arm overhead",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0003",
+      "MR0017",
+      "MR0023",
+      "MR0118",
+      "MR0129",
+      "MR0161",
+      "MR0188",
+      "MR0251",
+      "MR0286"
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "query_text": "chest soreness from the seatbelt after a car crash",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0031",
+      "MR0071",
+      "MR0087",
+      "MR0095",
+      "MR0115",
+      "MR0127",
+      "MR0142",
+      "MR0180",
+      "MR0190",
+      "MR0269"
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "query_text": "broken wrist from falling on an outstretched hand",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0019",
+      "MR0072",
+      "MR0078",
+      "MR0099",
+      "MR0178",
+      "MR0211",
+      "MR0259",
+      "MR0263",
+      "MR0298"
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "query_text": "twisted ankle with swelling on the outside",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0044",
+      "MR0059",
+      "MR0060",
+      "MR0119",
+      "MR0124",
+      "MR0212",
+      "MR0260",
+      "MR0284"
+    ]
+  },
+  {
+    "query_id": "Q016",
+    "query_text": "headache and memory problems after hitting head in an accident",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0036",
+      "MR0052",
+      "MR0062",
+      "MR0066",
+      "MR0103",
+      "MR0120",
+      "MR0190",
+      "MR0219",
+      "MR0258",
+      "MR0273",
+      "MR0290"
+    ]
+  },
+  {
+    "query_id": "Q017",
+    "query_text": "one-sided throbbing headache with light sensitivity",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0041",
+      "MR0076",
+      "MR0081",
+      "MR0162",
+      "MR0198",
+      "MR0230",
+      "MR0231",
+      "MR0255",
+      "MR0297"
+    ]
+  },
+  {
+    "query_id": "Q018",
+    "query_text": "sciatica with numbness running down the leg",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0025",
+      "MR0045",
+      "MR0055",
+      "MR0067",
+      "MR0116",
+      "MR0128",
+      "MR0146",
+      "MR0208",
+      "MR0215"
+    ]
+  },
+  {
+    "query_id": "Q019",
+    "query_text": "sudden weakness on one side and slurred speech",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0024",
+      "MR0083",
+      "MR0108",
+      "MR0122",
+      "MR0133",
+      "MR0177",
+      "MR0189",
+      "MR0270",
+      "MR0275"
+    ]
+  },
+  {
+    "query_id": "Q020",
+    "query_text": "heartburn after eating that is worse lying down",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0002",
+      "MR0010",
+      "MR0014",
+      "MR0073",
+      "MR0156",
+      "MR0169",
+      "MR0233",
+      "MR0239",
+      "MR0277"
+    ]
+  },
+  {
+    "query_id": "Q021",
+    "query_text": "stomach bug with vomiting and diarrhea",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0016",
+      "MR0020",
+      "MR0035",
+      "MR0040",
+      "MR0054",
+      "MR0170",
+      "MR0234",
+      "MR0240",
+      "MR0280"
+    ]
+  },
+  {
+    "query_id": "Q022",
+    "query_text": "pain that moved from the belly button to the lower right abdomen",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0026",
+      "MR0050",
+      "MR0057",
+      "MR0094",
+      "MR0102",
+      "MR0110",
+      "MR0187",
+      "MR0281",
+      "MR0289"
+    ]
+  },
+  {
+    "query_id": "Q023",
+    "query_text": "high blood sugar with excessive thirst and urination",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0009",
+      "MR0058",
+      "MR0082",
+      "MR0101",
+      "MR0164",
+      "MR0183",
+      "MR0241",
+      "MR0252",
+      "MR0274"
+    ]
+  },
+  {
+    "query_id": "Q024",
+    "query_text": "tired all the time, gaining weight, and always cold",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0008",
+      "MR0150",
+      "MR0155",
+      "MR0163",
+      "MR0194",
+      "MR0200",
+      "MR0225",
+      "MR0287",
+      "MR0295"
+    ]
+  },
+  {
+    "query_id": "Q025",
+    "query_text": "cut that needed stitches",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0001",
+      "MR0046",
+      "MR0056",
+      "MR0061",
+      "MR0074",
+      "MR0107",
+      "MR0173",
+      "MR0175",
+      "MR0254"
+    ]
+  },
+  {
+    "query_id": "Q026",
+    "query_text": "itchy rash after touching a chemical or plant",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0033",
+      "MR0090",
+      "MR0123",
+      "MR0130",
+      "MR0154",
+      "MR0157",
+      "MR0196",
+      "MR0228",
+      "MR0237"
+    ]
+  },
+  {
+    "query_id": "Q027",
+    "query_text": "red hot swollen skin infection on the leg",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0012",
+      "MR0043",
+      "MR0077",
+      "MR0172",
+      "MR0197",
+      "MR0236",
+      "MR0249",
+      "MR0265"
+    ]
+  },
+  {
+    "query_id": "Q028",
+    "query_text": "nightmares and fear of driving after the accident",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0027",
+      "MR0048",
+      "MR0148",
+      "MR0203",
+      "MR0226",
+      "MR0232",
+      "MR0253",
+      "MR0278",
+      "MR0293"
+    ]
+  },
+  {
+    "query_id": "Q029",
+    "query_text": "feeling sad and lost interest in everything",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0032",
+      "MR0084",
+      "MR0111",
+      "MR0195",
+      "MR0207",
+      "MR0224",
+      "MR0247",
+      "MR0276",
+      "MR0296"
+    ]
+  },
+  {
+    "query_id": "Q030",
+    "query_text": "constant worry and feeling on edge",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0004",
+      "MR0096",
+      "MR0174",
+      "MR0176",
+      "MR0201",
+      "MR0204",
+      "MR0242",
+      "MR0285"
+    ]
+  },
+  {
+    "query_id": "Q031",
+    "query_text": "burning when urinating",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0015",
+      "MR0029",
+      "MR0063",
+      "MR0070",
+      "MR0088",
+      "MR0100",
+      "MR0104",
+      "MR0223",
+      "MR0283"
+    ]
+  },
+  {
+    "query_id": "Q032",
+    "query_text": "severe flank pain going to the groin with blood in urine",
+    "query_type": "paraphrase",
+    "relevant_record_ids": [
+      "MR0092",
+      "MR0106",
+      "MR0151",
+      "MR0152",
+      "MR0179",
+      "MR0221",
+      "MR0248",
+      "MR0264",
+      "MR0294"
+    ]
+  },
+  {
+    "query_id": "Q033",
+    "query_text": "SOB w/ wheeze, neb tx given",
+    "query_type": "abbreviation",
+    "relevant_record_ids": [
+      "MR0049",
+      "MR0075",
+      "MR0079",
+      "MR0086",
+      "MR0097",
+      "MR0105",
+      "MR0109",
+      "MR0141",
+      "MR0144",
+      "MR0149",
+      "MR0153",
+      "MR0159",
+      "MR0186",
+      "MR0192",
+      "MR0210",
+      "MR0218",
+      "MR0235"
+    ]
+  },
+  {
+    "query_id": "Q034",
+    "query_text": "CP radiating to jaw w/ diaphoresis, r/o STEMI",
+    "query_type": "abbreviation",
+    "relevant_record_ids": [
+      "MR0018",
+      "MR0021",
+      "MR0069",
+      "MR0098",
+      "MR0145",
+      "MR0181",
+      "MR0199",
+      "MR0229",
+      "MR0291"
+    ]
+  },
+  {
+    "query_id": "Q035",
+    "query_text": "T2DM w/ elevated A1c",
+    "query_type": "abbreviation",
+    "relevant_record_ids": [
+      "MR0009",
+      "MR0058",
+      "MR0082",
+      "MR0101",
+      "MR0164",
+      "MR0183",
+      "MR0241",
+      "MR0252",
+      "MR0274"
+    ]
+  },
+  {
+    "query_id": "Q036",
+    "query_text": "LBP w/ radiculopathy, +SLR",
+    "query_type": "abbreviation",
+    "relevant_record_ids": [
+      "MR0025",
+      "MR0045",
+      "MR0055",
+      "MR0067",
+      "MR0116",
+      "MR0128",
+      "MR0146",
+      "MR0208",
+      "MR0215"
+    ]
+  },
+  {
+    "query_id": "Q037",
+    "query_text": "s/p MVC c/o HA and dizziness",
+    "query_type": "abbreviation",
+    "relevant_record_ids": [
+      "MR0036",
+      "MR0052",
+      "MR0062",
+      "MR0066",
+      "MR0103",
+      "MR0120",
+      "MR0190",
+      "MR0219",
+      "MR0258",
+      "MR0273",
+      "MR0290"
+    ]
+  },
+  {
+    "query_id": "Q038",
+    "query_text": "AF w/ RVR, on anticoag",
+    "query_type": "abbreviation",
+    "relevant_record_ids": [
+      "MR0013",
+      "MR0039",
+      "MR0085",
+      "MR0117",
+      "MR0171",
+      "MR0214",
+      "MR0216",
+      "MR0244"
+    ]
+  },
+  {
+    "query_id": "Q039",
+    "query_text": "N/V/D x 2 days",
+    "query_type": "abbreviation",
+    "relevant_record_ids": [
+      "MR0016",
+      "MR0020",
+      "MR0035",
+      "MR0040",
+      "MR0054",
+      "MR0170",
+      "MR0234",
+      "MR0240",
+      "MR0280"
+    ]
+  },
+  {
+    "query_id": "Q040",
+    "query_text": "UTI sx: dysuria, urgency, freq",
+    "query_type": "abbreviation",
+    "relevant_record_ids": [
+      "MR0015",
+      "MR0029",
+      "MR0063",
+      "MR0070",
+      "MR0088",
+      "MR0100",
+      "MR0104",
+      "MR0223",
+      "MR0283"
+    ]
+  },
+  {
+    "query_id": "Q041",
+    "query_text": "chest pain after a car accident with heart attack ruled out",
+    "query_type": "negation",
+    "relevant_record_ids": [
+      "MR0031",
+      "MR0071",
+      "MR0087",
+      "MR0095",
+      "MR0115",
+      "MR0127",
+      "MR0142",
+      "MR0180",
+      "MR0190",
+      "MR0269"
+    ]
+  },
+  {
+    "query_id": "Q042",
+    "query_text": "headache with no head injury",
+    "query_type": "negation",
+    "relevant_record_ids": [
+      "MR0041",
+      "MR0076",
+      "MR0081",
+      "MR0162",
+      "MR0198",
+      "MR0230",
+      "MR0231",
+      "MR0255",
+      "MR0297"
+    ]
+  },
+  {
+    "query_id": "Q043",
+    "query_text": "low back pain that does not travel down the legs",
+    "query_type": "negation",
+    "relevant_record_ids": [
+      "MR0113",
+      "MR0136",
+      "MR0143",
+      "MR0147",
+      "MR0185",
+      "MR0190",
+      "MR0202",
+      "MR0205",
+      "MR0209",
+      "MR0262"
+    ]
+  },
+  {
+    "query_id": "Q044",
+    "query_text": "burning chest discomfort that is not cardiac",
+    "query_type": "negation",
+    "relevant_record_ids": [
+      "MR0002",
+      "MR0010",
+      "MR0014",
+      "MR0073",
+      "MR0156",
+      "MR0169",
+      "MR0233",
+      "MR0239",
+      "MR0277"
+    ]
+  },
+  {
+    "query_id": "Q045",
+    "query_text": "positive McMurray test",
+    "query_type": "rare_term",
+    "relevant_record_ids": [
+      "MR0080",
+      "MR0112",
+      "MR0131",
+      "MR0168",
+      "MR0191",
+      "MR0193",
+      "MR0238",
+      "MR0250",
+      "MR0272"
+    ]
+  },
+  {
+    "query_id": "Q046",
+    "query_text": "tenderness at McBurney point",
+    "query_type": "rare_term",
+    "relevant_record_ids": [
+      "MR0026",
+      "MR0050",
+      "MR0057",
+      "MR0094",
+      "MR0102",
+      "MR0110",
+      "MR0187",
+      "MR0281",
+      "MR0289"
+    ]
+  },
+  {
+    "query_id": "Q047",
+    "query_text": "Colles fracture",
+    "query_type": "rare_term",
+    "relevant_record_ids": [
+      "MR0019",
+      "MR0072",
+      "MR0078",
+      "MR0099",
+      "MR0178",
+      "MR0211",
+      "MR0259",
+      "MR0263",
+      "MR0298"
+    ]
+  },
+  {
+    "query_id": "Q048",
+    "query_text": "seatbelt sign ecchymosis",
+    "query_type": "rare_term",
+    "relevant_record_ids": [
+      "MR0031",
+      "MR0071",
+      "MR0087",
+      "MR0095",
+      "MR0115",
+      "MR0127",
+      "MR0142",
+      "MR0180",
+      "MR0190",
+      "MR0269"
+    ]
+  },
+  {
+    "query_id": "Q049",
+    "query_text": "elevated BNP with JVD",
+    "query_type": "rare_term",
+    "relevant_record_ids": [
+      "MR0005",
+      "MR0030",
+      "MR0051",
+      "MR0053",
+      "MR0121",
+      "MR0135",
+      "MR0138",
+      "MR0140",
+      "MR0288"
+    ]
+  },
+  {
+    "query_id": "Q050",
+    "query_text": "racing heart with sudden intense fear and trembling",
+    "query_type": "confusable_symptoms",
+    "relevant_record_ids": [
+      "MR0004",
+      "MR0096",
+      "MR0174",
+      "MR0176",
+      "MR0201",
+      "MR0204",
+      "MR0242",
+      "MR0285"
+    ]
+  },
+  {
+    "query_id": "Q051",
+    "query_text": "persistent fatigue and low energy",
+    "query_type": "multi_topic",
+    "relevant_record_ids": [
+      "MR0008",
+      "MR0032",
+      "MR0084",
+      "MR0111",
+      "MR0150",
+      "MR0155",
+      "MR0163",
+      "MR0194",
+      "MR0195",
+      "MR0200",
+      "MR0207",
+      "MR0224",
+      "MR0225",
+      "MR0247",
+      "MR0276",
+      "MR0287",
+      "MR0295",
+      "MR0296"
+    ]
+  },
+  {
+    "query_id": "Q052",
+    "query_text": "neck and head symptoms after a car crash",
+    "query_type": "multi_topic",
+    "relevant_record_ids": [
+      "MR0006",
+      "MR0022",
+      "MR0034",
+      "MR0036",
+      "MR0052",
+      "MR0062",
+      "MR0066",
+      "MR0089",
+      "MR0103",
+      "MR0114",
+      "MR0120",
+      "MR0166",
+      "MR0167",
+      "MR0184",
+      "MR0190",
+      "MR0219",
+      "MR0222",
+      "MR0243",
+      "MR0258",
+      "MR0273",
+      "MR0290"
+    ]
+  },
+  {
+    "query_id": "Q053",
+    "query_text": "red itchy or infected skin",
+    "query_type": "multi_topic",
+    "relevant_record_ids": [
+      "MR0012",
+      "MR0033",
+      "MR0043",
+      "MR0077",
+      "MR0090",
+      "MR0123",
+      "MR0130",
+      "MR0154",
+      "MR0157",
+      "MR0172",
+      "MR0196",
+      "MR0197",
+      "MR0228",
+      "MR0236",
+      "MR0237",
+      "MR0249",
+      "MR0265"
+    ]
+  },
+  {
+    "query_id": "Q054",
+    "query_text": "",
+    "query_type": "edge_case_empty",
+    "relevant_record_ids": []
+  },
+  {
+    "query_id": "Q055",
+    "query_text": "   ",
+    "query_type": "edge_case_whitespace",
+    "relevant_record_ids": []
+  },
+  {
+    "query_id": "Q056",
+    "query_text": "best pizza place downtown",
+    "query_type": "edge_case_out_of_domain",
+    "relevant_record_ids": []
+  },
+  {
+    "query_id": "Q057",
+    "query_text": "painful urination with urgency",
+    "query_type": "edge_case_bad_label",
+    "relevant_record_ids": [
+      "MR0015",
+      "MR0029",
+      "MR0063",
+      "MR0070",
+      "MR0088",
+      "MR0100",
+      "MR0104",
+      "MR0223",
+      "MR0283",
+      "MR9999"
+    ]
+  }
+]

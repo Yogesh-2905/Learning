@@ -1,0 +1,2976 @@
+[
+  {
+    "record_id": "MR0001",
+    "note_text": "Deep laceration to the palm from a box cutter at work. Wound irrigated and explored; X-ray negative for glass fragments. 4 cm linear laceration, wound edges well approximated; no foreign body. Tetanus last given over 10 years ago. Repaired with 6 simple interrupted 4-0 nylon sutures; suture removal in 10 days. Denies dysuria or hematuria.",
+    "category": "dermatological",
+    "subcategory": "laceration",
+    "visit_type": "ED visit",
+    "patient_age": 23,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0002",
+    "note_text": "S: Chronic acid reflux despite over-the-counter antacids; occasional difficulty swallowing. Denies dysuria or hematuria. O: Cardiac workup negative for chest discomfort. A/P: GI referral for EGD given dysphagia.",
+    "category": "gastrointestinal",
+    "subcategory": "gerd",
+    "visit_type": "gastroenterology consult",
+    "patient_age": 34,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0003",
+    "note_text": "Patient reports right shoulder pain and weakness lifting arm overhead. MRI: partial-thickness supraspinatus tear. Active abduction limited to 100 degrees; passive ROM preserved. Subacromial corticosteroid injection performed.",
+    "category": "musculoskeletal",
+    "subcategory": "rotator_cuff_injury",
+    "visit_type": "ED visit",
+    "patient_age": 73,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0004",
+    "note_text": "Episodes of sudden intense fear with chest tightness and trembling. ECG normal; TSH normal. No substance use reported.",
+    "category": "psychiatric",
+    "subcategory": "generalized_anxiety",
+    "visit_type": "behavioral health visit",
+    "patient_age": 56,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0005",
+    "note_text": "37-year-old female. Known HFrEF presenting with orthopnea, PND, and decreased exercise tolerance. BNP 1,450 pg/mL. Restarted guideline-directed therapy with sacubitril-valsartan and carvedilol.",
+    "category": "cardiovascular",
+    "subcategory": "heart_failure",
+    "visit_type": "ED visit",
+    "patient_age": 37,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0006",
+    "note_text": "Whiplash-associated disorder following low-speed collision; pain worse with turning head. Neurovascularly intact in bilateral upper extremities. Cervical spine X-ray: loss of normal lordosis, no fracture. Diagnosed with cervical strain; NSAIDs, muscle relaxant, and physical therapy 2-3x/week.",
+    "category": "musculoskeletal",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "ED visit",
+    "patient_age": 67,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0007",
+    "note_text": "PT IS A 71 Y/O MALE. PATIENT REPORTS ELEVATED BLOOD PRESSURE AT PHARMACY KIOSK; ASYMPTOMATIC. BMI 32; NO PERIPHERAL EDEMA. BP 158/96 RIGHT ARM SEATED, REPEAT 152/94. BMP: CREATININE 1.0, POTASSIUM 4.2. INCREASE LISINOPRIL TO 20 MG DAILY; RECHECK BP IN 4 WEEKS.",
+    "category": "cardiovascular",
+    "subcategory": "hypertension_followup",
+    "visit_type": "primary care follow-up",
+    "patient_age": 71,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0008",
+    "note_text": "34-year-old female. Hashimoto thyroiditis with persistent fatigue and brain fog. TSH 11.4 mIU/L, free T4 low.",
+    "category": "endocrine",
+    "subcategory": "hypothyroidism",
+    "visit_type": "endocrinology consult",
+    "patient_age": 34,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0009",
+    "note_text": "Newly diagnosed type 2 diabetes after routine labs; asymptomatic. Fasting glucose 214 mg/dL; urine microalbumin elevated. Hemoglobin A1c 9.2%. Monofilament testing shows decreased sensation in bilateral feet. Diabetes education and nutrition referral; recheck A1c in 3 months. No recent trauma or falls.",
+    "category": "endocrine",
+    "subcategory": "type2_diabetes",
+    "visit_type": "endocrinology consult",
+    "patient_age": 58,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0010",
+    "note_text": "GERD sx: regurgitation, epigastric burning, chronic cough. H. pylori stool antigen negative. Epigastric tenderness to palpation; no rebound. EGD: Los Angeles grade B esophagitis. GI referral for EGD given dysphagia. No recent trauma or falls.",
+    "category": "gastrointestinal",
+    "subcategory": "gerd",
+    "visit_type": "telehealth visit",
+    "patient_age": 42,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0011",
+    "note_text": "25yo M. Newly noted elevated BP on two separate visits; no prior history of hypertension. BP 158/96 right arm seated, repeat 152/94. Counseled on DASH diet, sodium restriction, and regular exercise.",
+    "category": "cardiovascular",
+    "subcategory": "hypertension_followup",
+    "visit_type": "primary care follow-up",
+    "patient_age": 25,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0012",
+    "note_text": "Erythema and tenderness surrounding an insect bite on the thigh. No fluctuance on bedside ultrasound. Admitted for IV cefazolin given systemic symptoms.",
+    "category": "dermatological",
+    "subcategory": "cellulitis",
+    "visit_type": "ED visit",
+    "patient_age": 36,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0013",
+    "note_text": "67-year-old male. AF w/ RVR on arrival; pt c/o palpitations and mild dyspnea. ECG: atrial fibrillation with ventricular rate 132, no P waves. Echocardiogram: left atrial enlargement, EF 55%.",
+    "category": "cardiovascular",
+    "subcategory": "atrial_fibrillation",
+    "visit_type": "cardiology consult",
+    "patient_age": 67,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0014",
+    "note_text": "S: c/o heartburn and sour taste in mouth several nights per week. O: Cardiac workup negative for chest discomfort. A/P: GI referral for EGD given dysphagia.",
+    "category": "gastrointestinal",
+    "subcategory": "gerd",
+    "visit_type": "gastroenterology consult",
+    "patient_age": 68,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0015",
+    "note_text": "Elderly patient with new confusion and urinary frequency. Urine culture grew E. coli >100,000 CFU/mL. Urinalysis: positive leukocyte esterase and nitrites. Uncomplicated cystitis; nitrofurantoin for 5 days.",
+    "category": "renal_urological",
+    "subcategory": "urinary_tract_infection",
+    "visit_type": "urgent care",
+    "patient_age": 77,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0016",
+    "note_text": "81-year-old female. N/V/D with low-grade fever; decreased urine output. Hyperactive bowel sounds; no peritoneal signs. Denies dysuria or hematuria.",
+    "category": "gastrointestinal",
+    "subcategory": "gastroenteritis",
+    "visit_type": "telehealth visit",
+    "patient_age": 81,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0017",
+    "note_text": "Shoulder weakness and pain following lifting injury at work. Active abduction limited to 100 degrees; passive ROM preserved. Subacromial corticosteroid injection performed.",
+    "category": "musculoskeletal",
+    "subcategory": "rotator_cuff_injury",
+    "visit_type": "urgent care",
+    "patient_age": 26,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0018",
+    "note_text": "80yo M. Patient describes an elephant sitting on his chest and feeling sweaty and lightheaded. Initial troponin 0.08 ng/mL, repeat rising. Aspirin 325 mg given; heparin drip started; cardiology consulted for catheterization.",
+    "category": "cardiovascular",
+    "subcategory": "acute_coronary_syndrome",
+    "visit_type": "ED visit",
+    "patient_age": 80,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0019",
+    "note_text": "Distal radius pain after bracing against the dashboard in a car crash. Swelling and ecchymosis over dorsal wrist. Closed reduction and sugar-tong splint applied; orthopedic follow-up in 1 week.",
+    "category": "musculoskeletal",
+    "subcategory": "wrist_fracture",
+    "visit_type": "urgent care",
+    "patient_age": 58,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0020",
+    "note_text": "Pt is a 63 y/o female. Several household members with stomach flu; patient has diarrhea x 2 days. BMP: BUN 28, creatinine 1.1, consistent with mild dehydration. Stool PCR positive for norovirus. Return if bloody stools, high fever, or inability to keep fluids down. Denies chest pain.",
+    "category": "gastrointestinal",
+    "subcategory": "gastroenteritis",
+    "visit_type": "telehealth visit",
+    "patient_age": 63,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0021",
+    "note_text": "Intermittent anginal chest pain relieved by rest; family history of early coronary artery disease. ECG with ST elevation in II, III, aVF. Aspirin 325 mg given; heparin drip started; cardiology consulted for catheterization. No loss of consciousness.",
+    "category": "cardiovascular",
+    "subcategory": "acute_coronary_syndrome",
+    "visit_type": "cardiology consult",
+    "patient_age": 72,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0022",
+    "note_text": "Patient reports neck pain and stiffness after a rear-end motor vehicle collision two days ago. Paraspinal cervical tenderness and trapezius spasm; no midline tenderness. Neurovascularly intact in bilateral upper extremities. Heat, gentle range-of-motion exercises; follow up in 2 weeks.",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "chiropractic visit",
+    "patient_age": 26,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0023",
+    "note_text": "L shoulder pain x 3 months, worse with abduction; works as a house painter. Active abduction limited to 100 degrees; passive ROM preserved. Positive Neer and Hawkins impingement signs; weak empty can test. Subacromial corticosteroid injection performed.",
+    "category": "musculoskeletal",
+    "subcategory": "rotator_cuff_injury",
+    "visit_type": "ED visit",
+    "patient_age": 27,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0024",
+    "note_text": "78-year-old female. Patient says her vision went dark in one eye like a curtain coming down, then returned. MRI DWI shows small acute infarct in left corona radiata. NIHSS 4 with right facial droop and pronator drift. Carotid duplex: 70% right ICA stenosis. Neurology consult; dual antiplatelet therapy for 21 days.",
+    "category": "neurological",
+    "subcategory": "stroke_tia",
+    "visit_type": "neurology consult",
+    "patient_age": 78,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0025",
+    "note_text": "41yo F. Radiating leg pain and numbness along the L5 dermatome. Diminished Achilles reflex on the right. Lumbar radiculopathy; gabapentin and physical therapy.",
+    "category": "neurological",
+    "subcategory": "lumbar_radiculopathy",
+    "visit_type": "pain management",
+    "patient_age": 41,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0026",
+    "note_text": "c/o RLQ abd pain, anorexia, and nausea x 18 hrs. Ultrasound: noncompressible appendix measuring 9 mm. WBC 14.8; CT abdomen shows dilated appendix with periappendiceal fat stranding.",
+    "category": "gastrointestinal",
+    "subcategory": "appendicitis",
+    "visit_type": "ED visit",
+    "patient_age": 65,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0027",
+    "note_text": "Patient says she panics every time she hears tires screeching and won't drive on the highway anymore. PCL-5 score 48, consistent with probable PTSD. Sleep averaging 4 hours per night with frequent awakenings. Mental status exam: alert, oriented, mood described as on edge. Gradual driving exposure plan discussed with therapist.",
+    "category": "psychiatric",
+    "subcategory": "ptsd_post_accident",
+    "visit_type": "primary care follow-up",
+    "patient_age": 45,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0028",
+    "note_text": "Pt is a 34 y/o female. Mild cough and congestion; patient requesting antibiotics. Lungs clear to auscultation bilaterally. Rapid strep and COVID-19 antigen tests negative. Viral upper respiratory infection; supportive care with fluids, rest, and saline nasal spray.",
+    "category": "respiratory",
+    "subcategory": "viral_uri",
+    "visit_type": "primary care follow-up",
+    "patient_age": "34",
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0029",
+    "note_text": "36yo M. Recurrent UTI symptoms; third episode this year. Suprapubic tenderness; no CVA tenderness. Urinalysis: positive leukocyte esterase and nitrites.",
+    "category": "renal_urological",
+    "subcategory": "urinary_tract_infection",
+    "visit_type": "telehealth visit",
+    "patient_age": 36,
+    "patient_sex": "Male",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0030",
+    "note_text": "S: c/o weight gain of 6 lbs in one week and needing three pillows to sleep. Denies dysuria or hematuria. O: Chest X-ray: cardiomegaly with pulmonary vascular congestion. BNP 1,450 pg/mL. Bibasilar crackles; S3 gallop. A/P: Restarted guideline-directed therapy with sacubitril-valsartan and carvedilol.",
+    "category": "cardiovascular",
+    "subcategory": "heart_failure",
+    "visit_type": "inpatient admission",
+    "patient_age": 42,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0031",
+    "note_text": "Patient [NAME REDACTED], MRN [REDACTED]. 49-year-old female. c/o left-sided chest pain worse with deep breathing and movement after striking the steering wheel. Linear seatbelt sign ecchymosis across the chest; costochondral tenderness. Chest X-ray: no rib fractures or pneumothorax. Return if shortness of breath or worsening pain develops.",
+    "category": "musculoskeletal",
+    "subcategory": "chest_wall_contusion",
+    "visit_type": "urgent care",
+    "patient_age": 49,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0032",
+    "note_text": "Depressed mood since job loss; decreased appetite and weight loss. Affect constricted; thought process linear. Psychomotor slowing noted. TSH normal. Increased fluoxetine to 40 mg; follow-up scheduled in 2 weeks.",
+    "category": "psychiatric",
+    "subcategory": "depression",
+    "visit_type": "behavioral health visit",
+    "patient_age": 28,
+    "patient_sex": "f",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0033",
+    "note_text": "Patient says her skin is itchy and blistering where the new detergent touches. No signs of secondary infection. Lichenified skin on dorsal hands. Recommended protective gloves and fragrance-free emollients. Denies dysuria or hematuria.",
+    "category": "dermatological",
+    "subcategory": "contact_dermatitis",
+    "visit_type": "primary care follow-up",
+    "patient_age": 65,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0034",
+    "note_text": "54yo M. s/p MVC 1 wk ago; c/o cervical pain, decreased ROM, and muscle spasm. Cervical spine X-ray: loss of normal lordosis, no fracture. Cervical ROM limited in rotation and extension; Spurling test negative. Paraspinal cervical tenderness and trapezius spasm; no midline tenderness. Heat, gentle range-of-motion exercises; follow up in 2 weeks.",
+    "category": "musculoskeletal",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "physical therapy",
+    "patient_age": 54,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0035",
+    "note_text": "c/o nausea, abdominal cramping, and loose stools after eating at a buffet. Dry mucous membranes; mild diffuse abdominal tenderness. Hyperactive bowel sounds; no peritoneal signs. Viral gastroenteritis; oral rehydration and ondansetron.",
+    "category": "gastrointestinal",
+    "subcategory": "gastroenteritis",
+    "visit_type": "urgent care",
+    "patient_age": 48,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0036",
+    "note_text": "Patient reports headache, dizziness, and trouble concentrating after hitting head on the window during a car crash. SCAT5 symptom score elevated; impaired delayed recall. Mild balance deficits on tandem gait. CT head without contrast: no intracranial hemorrhage. Concussion; cognitive and physical rest followed by graded return to activity. Denies dysuria or hematuria.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "neurology consult",
+    "patient_age": 45,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0037",
+    "note_text": "79-year-old male. Pt c/o SOB, fatigue, productive cough x 5 days; febrile at home. WBC 16.2 with left shift; procalcitonin elevated. Repeat chest X-ray in 6 weeks to confirm resolution.",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "ED visit",
+    "patient_age": 79,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0039",
+    "note_text": "30-year-old female. Patient reports palpitations and a racing, irregular heartbeat since this morning. Echocardiogram: left atrial enlargement, EF 55%. Rate control with diltiazem; anticoagulation with apixaban initiated.",
+    "category": "cardiovascular",
+    "subcategory": "atrial_fibrillation",
+    "visit_type": "ED visit",
+    "patient_age": 30,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0040",
+    "note_text": "63-year-old male. Acute diarrhea after travel abroad. Stool PCR positive for norovirus. Dry mucous membranes; mild diffuse abdominal tenderness. BMP: BUN 28, creatinine 1.1, consistent with mild dehydration. Viral gastroenteritis; oral rehydration and ondansetron. No recent trauma or falls.",
+    "category": "gastrointestinal",
+    "subcategory": "gastroenteritis",
+    "visit_type": "telehealth visit",
+    "patient_age": 63,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0041",
+    "note_text": "56-year-old female. Chronic daily headaches with overuse of over-the-counter analgesics. Neurologic exam normal; no papilledema. Headache diary shows 8 headache days per month. Started topiramate for migraine prophylaxis; counseled on triggers.",
+    "category": "neurological",
+    "subcategory": "migraine",
+    "visit_type": "primary care follow-up",
+    "patient_age": 56,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0042",
+    "note_text": "   ",
+    "category": "dermatological",
+    "subcategory": "cellulitis",
+    "visit_type": "primary care follow-up",
+    "patient_age": 45,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0043 ",
+    "note_text": "S: c/o painful red area around a healing scrape on the arm with fever. Denies dysuria or hematuria. O: Ill-defined erythema with warmth, edema, and tenderness; margins marked. A/P: Added TMP-SMX for MRSA coverage; recheck in 48 hours.",
+    "category": "dermatological",
+    "subcategory": "cellulitis",
+    "visit_type": "primary care follow-up",
+    "patient_age": 51,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0044",
+    "note_text": "55-year-old male. Ankle sprain after slipping on an icy parking lot; able to bear weight with pain. Tenderness over the anterior talofibular ligament; no bony tenderness. X-ray: no fracture; soft tissue swelling laterally. Grade II lateral ankle sprain; RICE, air-cast brace, and weight bearing as tolerated. Denies chest pain.",
+    "category": "",
+    "subcategory": "ankle_sprain",
+    "visit_type": "urgent care",
+    "patient_age": 55,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0045",
+    "note_text": "Pt is a 67 y/o female. Patient says she has electric shock pain down her leg since the car accident. Decreased sensation over dorsum of foot; EHL weakness 4/5. MRI lumbar spine: L4-L5 disc herniation compressing the L5 nerve root. No loss of consciousness.",
+    "category": "neurological",
+    "subcategory": "lumbar_radiculopathy",
+    "visit_type": "orthopedic consult",
+    "patient_age": 67,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0045",
+    "note_text": "Patient did not arrive for scheduled appointment.",
+    "category": "administrative",
+    "subcategory": "administrative",
+    "visit_type": "primary care follow-up",
+    "patient_age": 49,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0046",
+    "note_text": "c/o lac to L hand from kitchen knife; bleeding controlled with pressure. Tetanus last given over 10 years ago. Tendon function intact; no neurovascular deficit. Skin adhesive applied; keep dry for 48 hours.",
+    "category": "dermatological",
+    "subcategory": "laceration",
+    "visit_type": "ED visit",
+    "patient_age": 71,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0047",
+    "note_text": "Pt is a 46 y/o male. c/o fever 102F, pleuritic right-sided chest pain, and cough productive of rusty sputum. Chest X-ray shows right lower lobe consolidation. Admitted for IV ceftriaxone and azithromycin given CURB-65 score of 2.",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "urgent care",
+    "patient_age": 46,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0048",
+    "note_text": "c/o hypervigilance, startling easily, and anxiety as a passenger since MVC. Sleep averaging 4 hours per night with frequent awakenings. Mental status exam: alert, oriented, mood described as on edge. PCL-5 score 48, consistent with probable PTSD. Started sertraline 50 mg daily; prazosin for nightmares.",
+    "category": "psychiatric",
+    "subcategory": "ptsd_post_accident",
+    "visit_type": "behavioral health visit",
+    "patient_age": 77,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0049",
+    "note_text": "36-year-old male. Known asthmatic presenting with shortness of breath and nocturnal cough; using rescue inhaler every 2 hours. Diffuse expiratory wheezes bilaterally. Discharged with albuterol MDI and spacer; return if symptoms worsen.",
+    "category": "respiratory",
+    "subcategory": "asthma_exacerbation",
+    "visit_type": "ED visit",
+    "patient_age": 36,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0050",
+    "note_text": "Young adult with right lower abdominal pain and vomiting. Ultrasound: noncompressible appendix measuring 9 mm. Acute appendicitis; general surgery consulted for laparoscopic appendectomy.",
+    "category": "gastrointestinal",
+    "subcategory": "appendicitis",
+    "visit_type": "inpatient admission",
+    "patient_age": 18,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0051",
+    "note_text": "Patient states his ankles are puffy and he gets winded climbing one flight of stairs. BNP 1,450 pg/mL. Bibasilar crackles; S3 gallop. IV furosemide diuresis; strict intake and output and daily weights.",
+    "category": " cardiovascular ",
+    "subcategory": "heart_failure",
+    "visit_type": "inpatient admission",
+    "patient_age": 30,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0052",
+    "note_text": "70yo F. Post-concussive symptoms 3 weeks after collision: headaches, irritability, and poor sleep. CT head without contrast: no intracranial hemorrhage. GCS 15; neuro exam nonfocal. Referred to neurology for persistent post-concussion syndrome.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "ED visit",
+    "patient_age": 70,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0053",
+    "note_text": "S: Fatigue and swelling in both legs; ran out of furosemide last week. Denies fever or chills. O: JVD to the angle of the jaw; 2+ pitting edema bilaterally. A/P: Restarted guideline-directed therapy with sacubitril-valsartan and carvedilol.",
+    "category": "cardiovascular",
+    "subcategory": "heart_failure",
+    "visit_type": "inpatient admission",
+    "patient_age": 53,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0054",
+    "note_text": "22-year-old female. Several household members with stomach flu; patient has diarrhea x 2 days. BMP: BUN 28, creatinine 1.1, consistent with mild dehydration.",
+    "category": "gastrointestinal",
+    "subcategory": "gastroenteritis",
+    "visit_type": "urgent care",
+    "patient_age": 22,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0055",
+    "note_text": "Pt is a 63 y/o male. Radiating leg pain and numbness along the L5 dermatome. Diminished Achilles reflex on the right. Lumbar radiculopathy; gabapentin and physical therapy.",
+    "category": "neurological",
+    "subcategory": "lumbar_radiculopathy",
+    "visit_type": "physical therapy",
+    "patient_age": 63,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0056",
+    "note_text": "42-year-old male. Patient says he cut his shin on a metal step while falling off a ladder. Tendon function intact; no neurovascular deficit. Tetanus last given over 10 years ago. Skin adhesive applied; keep dry for 48 hours. Denies dysuria or hematuria.",
+    "category": "dermatological",
+    "subcategory": "laceration",
+    "visit_type": "urgent care",
+    "patient_age": 42,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0057",
+    "note_text": "58-year-old female. Abdominal pain worse with walking and coughing; low-grade fever. Ultrasound: noncompressible appendix measuring 9 mm. WBC 14.8; CT abdomen shows dilated appendix with periappendiceal fat stranding. Positive Rovsing sign. Underwent uncomplicated laparoscopic appendectomy. Denies chest pain.",
+    "category": "gastrointestinal",
+    "subcategory": "appendicitis",
+    "visit_type": "inpatient admission",
+    "patient_age": 58,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0058",
+    "note_text": "37yo F. T2DM f/u, A1c up from last visit, admits to poor diet adherence. Fasting glucose 214 mg/dL; urine microalbumin elevated. Annual dilated eye exam and podiatry referral. No headache.",
+    "category": "endocrine",
+    "subcategory": "type2_diabetes",
+    "visit_type": "primary care follow-up",
+    "patient_age": 37,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0059",
+    "note_text": "R ankle swelling and bruising s/p inversion injury yesterday. Tenderness over the anterior talofibular ligament; no bony tenderness. Grade II lateral ankle sprain; RICE, air-cast brace, and weight bearing as tolerated.",
+    "category": "musculoskeletal",
+    "subcategory": "ankle_sprain",
+    "visit_type": "urgent care",
+    "patient_age": 64,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0060",
+    "note_text": "Pt is a 43 y/o female. Ankle sprain after slipping on an icy parking lot; able to bear weight with pain. Tenderness over the anterior talofibular ligament; no bony tenderness. X-ray: no fracture; soft tissue swelling laterally. Ottawa ankle rules negative; X-ray not indicated. Grade II lateral ankle sprain; RICE, air-cast brace, and weight bearing as tolerated. Denies nausea or vomiting.",
+    "category": "musculoskeletal",
+    "subcategory": "ankle_sprain",
+    "visit_type": "ED visit",
+    "patient_age": 43,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0061",
+    "note_text": "3 cm scalp laceration after slip and fall striking head on a counter. 4 cm linear laceration, wound edges well approximated; no foreign body. Tdap booster administered; wound care instructions given.",
+    "category": "dermatological",
+    "subcategory": "laceration",
+    "visit_type": "ED visit",
+    "patient_age": 58,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0062",
+    "note_text": "Pt is a 83 y/o female. s/p MVC with brief LOC; c/o HA, nausea, and light sensitivity. SCAT5 symptom score elevated; impaired delayed recall. GCS 15; neuro exam nonfocal. CT head without contrast: no intracranial hemorrhage. Head injury precautions given; avoid screens and driving until cleared. Denies numbness, tingling, or weakness.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "primary care follow-up",
+    "patient_age": 83,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0063",
+    "note_text": "c/o dysuria, urgency, and suprapubic pain x 2 days. Urinalysis: positive leukocyte esterase and nitrites. Increase fluid intake; return if fever or flank pain develops. No chest pain or shortness of breath.",
+    "category": "renal_urological",
+    "subcategory": "urinary_tract_infection",
+    "visit_type": "primary care follow-up",
+    "patient_age": 67,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0064",
+    "note_text": null,
+    "category": "cardiovascular",
+    "subcategory": "atrial_fibrillation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 66,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0065",
+    "note_text": "Pt is a 56 y/o male. Routine visit for hypertension management; patient feels well. BMI 32; no peripheral edema. BMP: creatinine 1.0, potassium 4.2. BP 158/96 right arm seated, repeat 152/94. No recent trauma or falls.",
+    "category": "cardiovascular",
+    "subcategory": "hypertension_followup",
+    "visit_type": "primary care follow-up",
+    "patient_age": 56,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0066",
+    "note_text": "Head injury during a football tackle; confusion and ringing in ears afterward. Mild balance deficits on tandem gait. GCS 15; neuro exam nonfocal. Referred to neurology for persistent post-concussion syndrome.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "ED visit",
+    "patient_age": 26,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0067",
+    "note_text": "41-year-old female. Patient says she has electric shock pain down her leg since the car accident. MRI lumbar spine: L4-L5 disc herniation compressing the L5 nerve root. Positive straight leg raise at 40 degrees on the left. Decreased sensation over dorsum of foot; EHL weakness 4/5. Neurosurgery consult if weakness progresses; cauda equina precautions reviewed. Denies dysuria or hematuria.",
+    "category": "neurological",
+    "subcategory": "lumbar_radiculopathy",
+    "visit_type": "neurology consult",
+    "patient_age": 41,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0068",
+    "note_text": "S: Patient has a stuffy nose, post-nasal drip, and a tickly cough keeping her up at night. No loss of consciousness. O: Afebrile, nontoxic appearing. A/P: Continue current management.",
+    "category": null,
+    "subcategory": "viral_uri",
+    "visit_type": "primary care follow-up",
+    "patient_age": 71,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0069",
+    "note_text": "S: CP x 2 hrs, radiating to jaw, assoc SOB and diaphoresis; hx HTN, HLD, smoker. Denies dysuria or hematuria. O: ECG with ST elevation in II, III, aVF. Initial troponin 0.08 ng/mL, repeat rising. A/P: Activated cath lab for STEMI; patient taken for emergent PCI.",
+    "category": "cardiovascular",
+    "subcategory": "acute_coronary_syndrome",
+    "visit_type": "cardiology consult",
+    "patient_age": 38,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0070",
+    "note_text": "Elderly patient with new confusion and urinary frequency. Urine culture grew E. coli >100,000 CFU/mL. Urology referral for recurrent infections.",
+    "category": "renal_urological",
+    "subcategory": "urinary_tract_infection",
+    "visit_type": "urgent care",
+    "patient_age": 86,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0071",
+    "note_text": "80-year-old male. Patient reports anterior chest wall pain after seatbelt restraint in a motor vehicle collision. Chest X-ray: no rib fractures or pneumothorax. Reassurance provided that cardiac workup is negative; follow up with PCP.",
+    "category": "musculoskeletal",
+    "subcategory": "chest_wall_contusion",
+    "visit_type": "primary care follow-up",
+    "patient_age": 80,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0072",
+    "note_text": "75yo F. Patient says her wrist looks bent and she can't move it after tripping on the sidewalk. Swelling and ecchymosis over dorsal wrist. Closed reduction and sugar-tong splint applied; orthopedic follow-up in 1 week.",
+    "category": "musculo-skeletal",
+    "subcategory": "wrist_fracture",
+    "visit_type": "orthopedic consult",
+    "patient_age": 75,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0073",
+    "note_text": "84yo F. Patient reports burning chest discomfort after meals, worse when lying down. Cardiac workup negative for chest discomfort. H. pylori stool antigen negative. EGD: Los Angeles grade B esophagitis. Started omeprazole 20 mg daily before breakfast. No recent trauma or falls.",
+    "category": "gastrointestinal",
+    "subcategory": "gerd",
+    "visit_type": "telehealth visit",
+    "patient_age": 84,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0074",
+    "note_text": "Patient says he cut his shin on a metal step while falling off a ladder. 4 cm linear laceration, wound edges well approximated; no foreign body. Tetanus last given over 10 years ago. Tendon function intact; no neurovascular deficit. Repaired with 6 simple interrupted 4-0 nylon sutures; suture removal in 10 days.",
+    "category": "dermatological",
+    "subcategory": "laceration",
+    "visit_type": "urgent care",
+    "patient_age": 70,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0075",
+    "note_text": "25-year-old female. Patient with COPD reports increased dyspnea and sputum volume over the last three days. Diminished breath sounds with scattered wheezes; barrel chest. FEV1/FVC 0.58 on prior spirometry. ABG pH 7.34, pCO2 52. Titrate oxygen to SpO2 88-92%; nebulized bronchodilators every 4 hours.",
+    "category": "respiratory",
+    "subcategory": "copd_exacerbation",
+    "visit_type": "ED visit",
+    "patient_age": 25,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0076",
+    "note_text": "37-year-old male. Patient reports throbbing unilateral headache with nausea and sensitivity to light. MRI brain unremarkable. Neurologic exam normal; no papilledema. IV fluids, metoclopramide, and ketorolac given in ED with relief. No loss of consciousness.",
+    "category": "neurological",
+    "subcategory": "migraine",
+    "visit_type": "ED visit",
+    "patient_age": 37,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0077",
+    "note_text": "75-year-old female. c/o painful red area around a healing scrape on the arm with fever. No fluctuance on bedside ultrasound. Lymphangitic streaking up the forearm. Ill-defined erythema with warmth, edema, and tenderness; margins marked. Admitted for IV cefazolin given systemic symptoms. Denies nausea or vomiting.",
+    "category": "dermatological",
+    "subcategory": "cellulitis",
+    "visit_type": "urgent care",
+    "patient_age": 75,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0078",
+    "note_text": "Elderly female slipped on a wet floor and landed on right wrist; visible deformity. X-ray: displaced distal radius fracture with dorsal angulation (Colles fracture). Closed reduction and sugar-tong splint applied; orthopedic follow-up in 1 week. Denies chest pain.",
+    "category": "musculoskeletal",
+    "subcategory": "wrist_fracture",
+    "visit_type": "orthopedic consult",
+    "patient_age": 88,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0079",
+    "note_text": "Asthma flare with persistent dry cough and difficulty breathing at night. Peak flow 55% of personal best. Albuterol-ipratropium nebulizer given with improvement; started 5-day oral prednisone course. Denies numbness, tingling, or weakness.",
+    "category": "respiratory",
+    "subcategory": "asthma_exacerbation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 81,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0080",
+    "note_text": "Pt is a 80 y/o female. L knee pain and effusion after pivoting; difficulty bearing weight. MRI: horizontal tear of the posterior horn of the medial meniscus. Positive McMurray test medially; joint line tenderness. Ordered MRI of the knee to evaluate internal derangement.",
+    "category": "musculoskeletal",
+    "subcategory": "knee_meniscus_injury",
+    "visit_type": "orthopedic consult",
+    "patient_age": 80,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0081",
+    "note_text": "S: Pounding headache behind left eye, worse with activity; no head trauma. Denies numbness, tingling, or weakness. O: Headache diary shows 8 headache days per month. No meningismus; afebrile. A/P: Started topiramate for migraine prophylaxis; counseled on triggers.",
+    "category": "neurological",
+    "subcategory": "migraine",
+    "visit_type": "primary care follow-up",
+    "patient_age": 50,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0082",
+    "note_text": "41-year-old female. Follow-up for diabetes mellitus with tingling in both feet. Monofilament testing shows decreased sensation in bilateral feet. Annual dilated eye exam and podiatry referral.",
+    "category": "endocrine",
+    "subcategory": "type2_diabetes",
+    "visit_type": "endocrinology consult",
+    "patient_age": 41,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0083",
+    "note_text": "58yo F. Transient episode of left hand clumsiness; hx AFib off anticoagulation. MRI DWI shows small acute infarct in left corona radiata. TIA workup: admitted for MRI, echo, and telemetry; started aspirin and statin. No recent trauma or falls.",
+    "category": "neurological",
+    "subcategory": "stroke_tia",
+    "visit_type": "neurology consult",
+    "patient_age": 58,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0084",
+    "note_text": "Pt is a 49 y/o female. Patient says nothing feels enjoyable anymore and she cries most days. TSH normal. PHQ-9 score 17, moderately severe depression. Psychomotor slowing noted. Started sertraline 50 mg; follow up in 4 weeks.",
+    "category": "psychiatric",
+    "subcategory": "depression",
+    "visit_type": "behavioral health visit",
+    "patient_age": 49,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0085",
+    "note_text": "c/o fluttering in chest and fatigue; known paroxysmal AFib. TSH within normal limits. Echocardiogram: left atrial enlargement, EF 55%. Discussed stroke risk and bleeding precautions on anticoagulation.",
+    "category": "cardiovascular",
+    "subcategory": "atrial_fibrillation",
+    "visit_type": "ED visit",
+    "patient_age": 71,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0086",
+    "note_text": "S: Patient states her breathing feels tight and she has needed her albuterol inhaler more than usual. O: SpO2 93% on room air, mild accessory muscle use. Prolonged expiratory phase; no crackles. A/P: Albuterol-ipratropium nebulizer given with improvement; started 5-day oral prednisone course.",
+    "category": "respiratory",
+    "subcategory": "asthma_exacerbation",
+    "visit_type": "pulmonology consult",
+    "patient_age": 56,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0087",
+    "note_text": "46yo F. Sternal and rib tenderness after being hit by an airbag. Linear seatbelt sign ecchymosis across the chest; costochondral tenderness. Point tenderness over left 5th and 6th ribs reproducing pain. Chest wall contusion; NSAIDs, ice, and incentive spirometry. No headache.",
+    "category": "musculoskeletal",
+    "subcategory": "chest_wall_contusion",
+    "visit_type": "primary care follow-up",
+    "patient_age": 46,
+    "patient_sex": "f",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0088",
+    "note_text": "S: Patient reports burning with urination and a frequent urge to urinate. O: Urinalysis: positive leukocyte esterase and nitrites. Suprapubic tenderness; no CVA tenderness. A/P: Continue current management.",
+    "category": "renal_urological",
+    "subcategory": "urinary_tract_infection",
+    "visit_type": "primary care follow-up",
+    "patient_age": 42,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0089",
+    "note_text": "Whiplash-associated disorder following low-speed collision; pain worse with turning head. Paraspinal cervical tenderness and trapezius spasm; no midline tenderness. Neurovascularly intact in bilateral upper extremities. Cervical ROM limited in rotation and extension; Spurling test negative. Heat, gentle range-of-motion exercises; follow up in 2 weeks.",
+    "category": "musculoskeletal",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "physical therapy",
+    "patient_age": 59,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0090",
+    "note_text": "Patient reports an itchy red rash on hands after starting a new job using cleaning chemicals. No signs of secondary infection. Patch testing positive for nickel sulfate. Oral antihistamine for itching; prednisone taper for extensive involvement. No recent trauma or falls.",
+    "category": null,
+    "subcategory": "contact_dermatitis",
+    "visit_type": "dermatology consult",
+    "patient_age": 56,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0091",
+    "note_text": "Elderly patient with confusion, cough, and fever; family reports decreased oral intake. Crackles at the right lower lung base with egophony. WBC 16.2 with left shift; procalcitonin elevated. Temp 38.9 C, RR 24, SpO2 91% on room air. Repeat chest X-ray in 6 weeks to confirm resolution.",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "ED visit",
+    "patient_age": 75,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0092",
+    "note_text": "S: Patient reports severe colicky right flank pain radiating to the groin. No recent trauma or falls. O: CVA tenderness on the right. CT abdomen/pelvis without contrast: 5 mm stone at the right ureterovesical junction. Creatinine 1.2, mild hydronephrosis on ultrasound. A/P: Continue current management.",
+    "category": "renal_urological",
+    "subcategory": "kidney_stone",
+    "visit_type": "urology consult",
+    "patient_age": 73,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0093",
+    "category": "musculoskeletal",
+    "subcategory": "ankle_sprain",
+    "visit_type": "urgent care",
+    "patient_age": 43,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0094",
+    "note_text": "Patient says his stomach pain started around the belly button and moved to the lower right side. Tenderness at McBurney point with rebound and guarding. WBC 14.8; CT abdomen shows dilated appendix with periappendiceal fat stranding. Underwent uncomplicated laparoscopic appendectomy.",
+    "category": "gastrointestinal",
+    "subcategory": "appendicitis",
+    "visit_type": "surgical consult",
+    "patient_age": 79,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0095",
+    "note_text": "Pt is a 46 y/o male. Patient reports anterior chest wall pain after seatbelt restraint in a motor vehicle collision. Linear seatbelt sign ecchymosis across the chest; costochondral tenderness. Point tenderness over left 5th and 6th ribs reproducing pain. Chest wall contusion; NSAIDs, ice, and incentive spirometry. No loss of consciousness.",
+    "category": "musculoskeletal",
+    "subcategory": "chest_wall_contusion",
+    "visit_type": "primary care follow-up",
+    "patient_age": 46,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0096",
+    "note_text": "71-year-old male. c/o racing thoughts and inability to relax; trouble falling asleep. Fidgety and restless during interview. Started escitalopram 10 mg daily.",
+    "category": "psychiatric",
+    "subcategory": "generalized_anxiety",
+    "visit_type": "telehealth visit",
+    "patient_age": 71,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0097",
+    "note_text": "S: Patient states he can barely walk to the mailbox without stopping to catch his breath; 40 pack-year history. O: Diminished breath sounds with scattered wheezes; barrel chest. SpO2 88% on 2L nasal cannula. A/P: Titrate oxygen to SpO2 88-92%; nebulized bronchodilators every 4 hours.",
+    "category": "respiratory",
+    "subcategory": "copd_exacerbation",
+    "visit_type": "ED visit",
+    "patient_age": 84,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0098",
+    "note_text": "S: Intermittent anginal chest pain relieved by rest; family history of early coronary artery disease. O: ECG with ST elevation in II, III, aVF. ECG shows ST depression in leads V4-V6. BP 168/94, HR 102, diaphoretic. A/P: Aspirin 325 mg given; heparin drip started; cardiology consulted for catheterization.",
+    "category": "cardiovascular",
+    "subcategory": "acute_coronary_syndrome",
+    "visit_type": "cardiology consult",
+    "patient_age": 23,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0099",
+    "note_text": "Pt is a 50 y/o male. Patient reports wrist pain and swelling after falling on an outstretched hand. Anatomic snuffbox tenderness; initial scaphoid views negative. Referred for ORIF given fracture displacement. No chest pain or shortness of breath.",
+    "category": "musculoskeletal",
+    "subcategory": "wrist_fracture",
+    "visit_type": "urgent care",
+    "patient_age": 50,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0100",
+    "note_text": "Patient reports burning with urination and a frequent urge to urinate. Suprapubic tenderness; no CVA tenderness. Increase fluid intake; return if fever or flank pain develops.",
+    "category": "renal_urological",
+    "subcategory": "urinary_tract_infection",
+    "visit_type": "primary care follow-up",
+    "patient_age": 32,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0101",
+    "note_text": "Diabetic patient with fasting sugars in the 200s on metformin. BMI 34; acanthosis nigricans on neck. No recent trauma or falls.",
+    "category": "endocrine",
+    "subcategory": "type2_diabetes",
+    "visit_type": "telehealth visit",
+    "patient_age": 25,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0102",
+    "note_text": "Patient reports periumbilical pain that migrated to the right lower quadrant. WBC 14.8; CT abdomen shows dilated appendix with periappendiceal fat stranding. Acute appendicitis; general surgery consulted for laparoscopic appendectomy. No loss of consciousness.",
+    "category": "gastrointestinal",
+    "subcategory": "appendicitis",
+    "visit_type": "surgical consult",
+    "patient_age": 31,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0103",
+    "note_text": "19-year-old male. Head injury during a football tackle; confusion and ringing in ears afterward. SCAT5 symptom score elevated; impaired delayed recall. Concussion; cognitive and physical rest followed by graded return to activity.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "ED visit",
+    "patient_age": 19,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0104",
+    "note_text": "S: Patient says it burns when she pees and she feels like she has to go constantly. Denies fever or chills. O: Suprapubic tenderness; no CVA tenderness. A/P: Uncomplicated cystitis; nitrofurantoin for 5 days.",
+    "category": "renal_urological",
+    "subcategory": "urinary_tract_infection",
+    "visit_type": "primary care follow-up",
+    "patient_age": 37,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0105",
+    "note_text": "58-year-old male. Increased wheezing and dyspnea triggered by seasonal allergies; unable to speak full sentences on arrival. SpO2 93% on room air, mild accessory muscle use.",
+    "category": null,
+    "subcategory": "asthma_exacerbation",
+    "visit_type": "urgent care",
+    "patient_age": 58,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0106",
+    "note_text": "74-year-old male. Flank pain and pink urine since this morning. CVA tenderness on the right. Ketorolac and tamsulosin for medical expulsive therapy; strain urine.",
+    "category": "renal_urological",
+    "subcategory": "kidney_stone",
+    "visit_type": "urology consult",
+    "patient_age": 74,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0107",
+    "note_text": "S: c/o lac to L hand from kitchen knife; bleeding controlled with pressure. O: Tendon function intact; no neurovascular deficit. A/P: Continue current management.",
+    "category": "dermatological",
+    "subcategory": "laceration",
+    "visit_type": "urgent care",
+    "patient_age": 39,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0108",
+    "note_text": "42yo F. Patient reports sudden onset right arm weakness and slurred speech that resolved in 20 minutes. Carotid duplex: 70% right ICA stenosis. MRI DWI shows small acute infarct in left corona radiata. Neurology consult; dual antiplatelet therapy for 21 days.",
+    "category": "neurological",
+    "subcategory": "stroke_tia",
+    "visit_type": "neurology consult",
+    "patient_age": 42,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0109",
+    "note_text": "Pt is a 49 y/o female. c/o increased SOB, change in sputum color, and wheeze; home O2 2L baseline. FEV1/FVC 0.58 on prior spirometry. Diminished breath sounds with scattered wheezes; barrel chest. Started prednisone 40 mg x 5 days and doxycycline; continue tiotropium.",
+    "category": "respiratory",
+    "subcategory": "copd_exacerbation",
+    "visit_type": "ED visit",
+    "patient_age": 49,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0110",
+    "note_text": "Progressive lower right abdominal pain with loss of appetite. Tenderness at McBurney point with rebound and guarding. NPO, IV fluids, and IV antibiotics started.",
+    "category": "gastrointestinal",
+    "subcategory": "appendicitis",
+    "visit_type": "surgical consult",
+    "patient_age": 81,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0111",
+    "note_text": "Patient reports low mood, loss of interest in activities, and poor sleep for two months. TSH normal. Affect constricted; thought process linear. Started sertraline 50 mg; follow up in 4 weeks.",
+    "category": "psychiatric",
+    "subcategory": "depression",
+    "visit_type": "telehealth visit",
+    "patient_age": 68,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0112",
+    "note_text": "Medial knee pain worse with squatting and stairs; occasional giving way. MRI: horizontal tear of the posterior horn of the medial meniscus. Positive McMurray test medially; joint line tenderness. Moderate knee effusion; Lachman negative.",
+    "category": "musculoskeletal",
+    "subcategory": "knee_meniscus_injury",
+    "visit_type": "ED visit",
+    "patient_age": 69,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0113",
+    "note_text": "S: Lumbar pain and spasm after MVC; pain localized to lower back without leg symptoms. O: Decreased lumbar flexion; normal strength and reflexes in lower extremities. Lumbar paraspinal tenderness with muscle spasm; straight leg raise negative bilaterally. A/P: Physical therapy for core strengthening; avoid heavy lifting for 2 weeks.",
+    "category": "musculoskeletal",
+    "subcategory": "lumbar_strain",
+    "visit_type": "orthopedic consult",
+    "patient_age": 77,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0114",
+    "note_text": "S: Restrained driver in MVC c/o posterior neck pain radiating to both shoulders. O: Neurovascularly intact in bilateral upper extremities. A/P: Diagnosed with cervical strain; NSAIDs, muscle relaxant, and physical therapy 2-3x/week.",
+    "category": "musculoskeletal",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "orthopedic consult",
+    "patient_age": 74,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0115",
+    "note_text": "Chest soreness and bruising across the chest following a car crash; pain reproducible with palpation. Point tenderness over left 5th and 6th ribs reproducing pain. Chest X-ray: no rib fractures or pneumothorax. Reassurance provided that cardiac workup is negative; follow up with PCP. No loss of consciousness.",
+    "category": null,
+    "subcategory": "chest_wall_contusion",
+    "visit_type": "ED visit",
+    "patient_age": 83,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0116",
+    "note_text": "S: Burning pain in buttock and leg with foot weakness after slip and fall. O: MRI lumbar spine: L4-L5 disc herniation compressing the L5 nerve root. A/P: Continue current management.",
+    "category": "neurological",
+    "subcategory": "lumbar_radiculopathy",
+    "visit_type": "pain management",
+    "patient_age": 27,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0117",
+    "note_text": "S: Patient reports palpitations and a racing, irregular heartbeat since this morning. O: TSH within normal limits. Echocardiogram: left atrial enlargement, EF 55%. A/P: Continue current management.",
+    "category": "cardiovascular",
+    "subcategory": "atrial_fibrillation",
+    "visit_type": "ED visit",
+    "patient_age": 57,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0118",
+    "note_text": "S: Painful arc and difficulty reaching behind back after seatbelt injury in MVC. Denies nausea or vomiting. O: MRI: partial-thickness supraspinatus tear. Active abduction limited to 100 degrees; passive ROM preserved. A/P: Subacromial corticosteroid injection performed.",
+    "category": "musculoskeletal",
+    "subcategory": "rotator_cuff_injury",
+    "visit_type": "physical therapy",
+    "patient_age": 55,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0119",
+    "note_text": "S: Recurrent ankle instability with new sprain while hiking. Denies dysuria or hematuria. O: Positive anterior drawer test. Tenderness over the anterior talofibular ligament; no bony tenderness. A/P: Grade II lateral ankle sprain; RICE, air-cast brace, and weight bearing as tolerated.",
+    "category": "musculoskeletal",
+    "subcategory": "ankle_sprain",
+    "visit_type": "physical therapy",
+    "patient_age": 44,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0120",
+    "note_text": "Patient says she has been forgetting words and feels off balance since the accident. Mild balance deficits on tandem gait. Denies dysuria or hematuria.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "ED visit",
+    "patient_age": 84,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0121",
+    "note_text": "S: Patient reports worsening leg swelling and shortness of breath when lying flat. O: BNP 1,450 pg/mL. A/P: 2 g sodium restriction and 1.5 L fluid restriction counseling.",
+    "category": "cardiovascular",
+    "subcategory": "heart_failure",
+    "visit_type": "cardiology consult",
+    "patient_age": 37,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0122",
+    "note_text": "S: c/o acute L-sided numbness and difficulty finding words; last known well 2 hours prior. No chest pain or shortness of breath. O: Carotid duplex: 70% right ICA stenosis. A/P: Neurology consult; dual antiplatelet therapy for 21 days.",
+    "category": "neurological",
+    "subcategory": "stroke_tia",
+    "visit_type": "neurology consult",
+    "patient_age": 84,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0123",
+    "note_text": "Patient [NAME REDACTED], MRN [REDACTED]. Pt is a 26 y/o male. c/o pruritic vesicular rash on legs after hiking; suspected poison ivy exposure. Patch testing positive for nickel sulfate. Oral antihistamine for itching; prednisone taper for extensive involvement. Denies nausea or vomiting.",
+    "category": "dermatological",
+    "subcategory": "contact_dermatitis",
+    "visit_type": "primary care follow-up",
+    "patient_age": 26,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0124",
+    "note_text": "63yo M. Patient says he heard a pop when his ankle twisted on uneven ground. Positive anterior drawer test. Ottawa ankle rules negative; X-ray not indicated. Grade II lateral ankle sprain; RICE, air-cast brace, and weight bearing as tolerated.",
+    "category": "musculoskeletal",
+    "subcategory": "ankle_sprain",
+    "visit_type": "urgent care",
+    "patient_age": 63,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0125",
+    "note_text": "",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "neurology consult",
+    "patient_age": 75,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0126",
+    "note_text": "25yo F. Routine visit for hypertension management; patient feels well. BP 158/96 right arm seated, repeat 152/94. BMI 32; no peripheral edema. Increase lisinopril to 20 mg daily; recheck BP in 4 weeks.",
+    "category": "cardiovascular",
+    "subcategory": "hypertension_followup",
+    "visit_type": "telehealth visit",
+    "patient_age": 25,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0127",
+    "note_text": "S: Sternal and rib tenderness after being hit by an airbag. O: Linear seatbelt sign ecchymosis across the chest; costochondral tenderness. Chest X-ray: no rib fractures or pneumothorax. A/P: Chest wall contusion; NSAIDs, ice, and incentive spirometry.",
+    "category": "musculoskeletal",
+    "subcategory": "chest_wall_contusion",
+    "visit_type": "urgent care",
+    "patient_age": 76,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0128",
+    "note_text": "Pt is a 66 y/o male. Patient reports low back pain shooting down the left leg to the foot. Positive straight leg raise at 40 degrees on the left. Decreased sensation over dorsum of foot; EHL weakness 4/5. MRI lumbar spine: L4-L5 disc herniation compressing the L5 nerve root. Lumbar radiculopathy; gabapentin and physical therapy.",
+    "category": "neurological",
+    "subcategory": "lumbar_radiculopathy",
+    "visit_type": "orthopedic consult",
+    "patient_age": 66,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0129",
+    "note_text": "63-year-old male. Shoulder weakness and pain following lifting injury at work. Positive Neer and Hawkins impingement signs; weak empty can test. MRI: partial-thickness supraspinatus tear. Orthopedic referral for possible rotator cuff repair. Denies numbness, tingling, or weakness.",
+    "category": "musculoskeletal",
+    "subcategory": "rotator_cuff_injury",
+    "visit_type": "physical therapy",
+    "patient_age": 63,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0130",
+    "note_text": "Patient says her skin is itchy and blistering where the new detergent touches. Lichenified skin on dorsal hands. Recommended protective gloves and fragrance-free emollients. No headache.",
+    "category": "dermatological",
+    "subcategory": "contact_dermatitis",
+    "visit_type": "dermatology consult",
+    "patient_age": 50,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0131",
+    "note_text": "Intermittent knee pain after exercise with stiffness the next morning. Moderate knee effusion; Lachman negative.",
+    "category": "musculoskeletal",
+    "subcategory": "knee_meniscus_injury",
+    "visit_type": "physical therapy",
+    "patient_age": 83,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0132",
+    "note_text": "Worsening shortness of breath with fever and cough after recent flu-like illness. Chest X-ray shows right lower lobe consolidation. WBC 16.2 with left shift; procalcitonin elevated.",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "ED visit",
+    "patient_age": 75,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0133",
+    "note_text": "S: Patient reports sudden onset right arm weakness and slurred speech that resolved in 20 minutes. O: CT head negative for hemorrhage; CTA with left MCA stenosis. A/P: TIA workup: admitted for MRI, echo, and telemetry; started aspirin and statin.",
+    "category": "neurological",
+    "subcategory": "stroke_tia",
+    "visit_type": "inpatient admission",
+    "patient_age": 60,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0134",
+    "note_text": "78-year-old female. Patient reports sore throat, runny nose, and mild cough for three days. Lungs clear to auscultation bilaterally. Viral upper respiratory infection; supportive care with fluids, rest, and saline nasal spray.",
+    "category": "respiratory",
+    "subcategory": "viral_uri",
+    "visit_type": "primary care follow-up",
+    "patient_age": 78,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0135",
+    "note_text": "S: Known HFrEF presenting with orthopnea, PND, and decreased exercise tolerance. No headache. O: BNP 1,450 pg/mL. A/P: Restarted guideline-directed therapy with sacubitril-valsartan and carvedilol.",
+    "category": "cardiovascular",
+    "subcategory": "heart_failure",
+    "visit_type": "ED visit",
+    "patient_age": 84,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0136",
+    "note_text": "67yo M. Patient says his lower back went out while bending to pick up his child. Lumbar paraspinal tenderness with muscle spasm; straight leg raise negative bilaterally. Lumbar strain; ibuprofen, cyclobenzaprine at night, and activity as tolerated.",
+    "category": "musculoskeletal",
+    "subcategory": "lumbar_strain",
+    "visit_type": "ED visit",
+    "patient_age": 67,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0137",
+    "note_text": "26-year-old female. Worsening shortness of breath with fever and cough after recent flu-like illness. WBC 16.2 with left shift; procalcitonin elevated. Repeat chest X-ray in 6 weeks to confirm resolution. No loss of consciousness.",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "ED visit",
+    "patient_age": 26,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0138",
+    "note_text": "52yo M. Patient reports worsening leg swelling and shortness of breath when lying flat. Bibasilar crackles; S3 gallop. Restarted guideline-directed therapy with sacubitril-valsartan and carvedilol.",
+    "category": "cardiovascular",
+    "subcategory": "heart_failure",
+    "visit_type": "inpatient admission",
+    "patient_age": 52,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0139",
+    "note_text": "23-year-old male. Follow-up for high blood pressure; admits to high-salt diet and missed doses of amlodipine. Fundoscopic exam without hypertensive changes. BMP: creatinine 1.0, potassium 4.2. Counseled on DASH diet, sodium restriction, and regular exercise. No chest pain or shortness of breath.",
+    "category": "cardiovascular",
+    "subcategory": "hypertension_followup",
+    "visit_type": "telehealth visit",
+    "patient_age": 23,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0140",
+    "note_text": "Pt is a 58 y/o female. CHF exacerbation after dietary indiscretion; increased dyspnea and edema. BNP 1,450 pg/mL. Chest X-ray: cardiomegaly with pulmonary vascular congestion.",
+    "category": "cardiovascular",
+    "subcategory": "heart_failure",
+    "visit_type": "cardiology consult",
+    "patient_age": 58,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0141",
+    "note_text": "S: c/o SOB and wheeze since exposure to cold air; hx of asthma since childhood. No recent trauma or falls. O: Prolonged expiratory phase; no crackles. A/P: Albuterol-ipratropium nebulizer given with improvement; started 5-day oral prednisone course.",
+    "category": "respiratory",
+    "subcategory": "asthma_exacerbation",
+    "visit_type": "ED visit",
+    "patient_age": 21,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0142",
+    "note_text": "Patient says it hurts to take a deep breath since he fell against a table edge. Chest X-ray: no rib fractures or pneumothorax. Reassurance provided that cardiac workup is negative; follow up with PCP.",
+    "category": "musculoskeletal",
+    "subcategory": "chest_wall_contusion",
+    "visit_type": "primary care follow-up",
+    "patient_age": 84,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0143",
+    "note_text": "Mechanical low back pain, worse with sitting and bending, improved with rest. Decreased lumbar flexion; normal strength and reflexes in lower extremities. Return precautions reviewed for red flag symptoms.",
+    "category": "musculoskeletal",
+    "subcategory": "lumbar_strain",
+    "visit_type": "urgent care",
+    "patient_age": 46,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0144",
+    "note_text": "COPD flare with productive cough and chest tightness after upper respiratory infection. SpO2 88% on 2L nasal cannula. Started prednisone 40 mg x 5 days and doxycycline; continue tiotropium.",
+    "category": "respiratory",
+    "subcategory": "copd_exacerbation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 32,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0145",
+    "note_text": "S: c/o crushing chest pain that started while shoveling snow, associated with nausea. O: BP 168/94, HR 102, diaphoretic. ECG with ST elevation in II, III, aVF. A/P: Admitted to telemetry for serial troponins and stress testing.",
+    "category": "cardiovascular",
+    "subcategory": "acute_coronary_syndrome",
+    "visit_type": "inpatient admission",
+    "patient_age": 64,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0146",
+    "note_text": "37-year-old female. LBP w/ radiation down posterior thigh; worse with coughing and sneezing. Decreased sensation over dorsum of foot; EHL weakness 4/5. Neurosurgery consult if weakness progresses; cauda equina precautions reviewed. No chest pain or shortness of breath.",
+    "category": "neurological",
+    "subcategory": "lumbar_radiculopathy",
+    "visit_type": "pain management",
+    "patient_age": 37,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0147",
+    "note_text": "S: Patient reports low back pain after lifting a heavy box at work. O: Decreased lumbar flexion; normal strength and reflexes in lower extremities. No saddle anesthesia or bowel/bladder changes. A/P: Physical therapy for core strengthening; avoid heavy lifting for 2 weeks.",
+    "category": "musculoskeletal",
+    "subcategory": "lumbar_strain",
+    "visit_type": "orthopedic consult",
+    "patient_age": 61,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0148",
+    "note_text": "57-year-old female. Patient reports nightmares and flashbacks of the car crash and avoids driving. Affect anxious; thought process linear. Mental status exam: alert, oriented, mood described as on edge. Gradual driving exposure plan discussed with therapist.",
+    "category": "psychiatric",
+    "subcategory": "ptsd_post_accident",
+    "visit_type": "primary care follow-up",
+    "patient_age": 57,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0149",
+    "note_text": "Long-term smoker with emphysema presenting with worsening breathlessness on minimal exertion. Diminished breath sounds with scattered wheezes; barrel chest. Pulmonary rehabilitation referral; smoking cessation counseling provided. Denies numbness, tingling, or weakness.",
+    "category": "respiratory",
+    "subcategory": "copd_exacerbation",
+    "visit_type": "ED visit",
+    "patient_age": 65,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0150",
+    "note_text": "S: c/o constipation, dry skin, and hair thinning over several months. Denies chest pain. O: Anti-TPO antibodies positive. Delayed relaxation of deep tendon reflexes. A/P: Levothyroxine dose increased to 88 mcg.",
+    "category": "endocrine",
+    "subcategory": "hypothyroidism",
+    "visit_type": "endocrinology consult",
+    "patient_age": 51,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0151",
+    "note_text": "62-year-old female. c/o sudden L flank pain, N/V, and blood in urine. Creatinine 1.2, mild hydronephrosis on ultrasound. CVA tenderness on the right. Urinalysis with microscopic hematuria. Increase fluid intake; return for fever or intractable pain. Denies fever or chills.",
+    "category": "renal_urological",
+    "subcategory": "kidney_stone",
+    "visit_type": "ED visit",
+    "patient_age": 62,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0152",
+    "note_text": "50-year-old female. Renal colic with hematuria; unable to find a comfortable position. Creatinine 1.2, mild hydronephrosis on ultrasound. Urology consult for possible ureteroscopy. No loss of consciousness.",
+    "category": "renal_urological",
+    "subcategory": "kidney_stone",
+    "visit_type": "ED visit",
+    "patient_age": 50,
+    "patient_sex": null,
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0153",
+    "note_text": "Pt is a 64 y/o female. AECOPD: increased sputum purulence and dyspnea, using inhalers more frequently. FEV1/FVC 0.58 on prior spirometry. ABG pH 7.34, pCO2 52. Diminished breath sounds with scattered wheezes; barrel chest. Pulmonary rehabilitation referral; smoking cessation counseling provided. Denies numbness, tingling, or weakness.",
+    "category": "respiratory",
+    "subcategory": "copd_exacerbation",
+    "visit_type": "ED visit",
+    "patient_age": 64,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0154",
+    "note_text": "S: Rash under watch band and on earlobes; history of nickel sensitivity. O: Patch testing positive for nickel sulfate. Well-demarcated erythematous plaques with vesicles in a linear pattern. A/P: Oral antihistamine for itching; prednisone taper for extensive involvement.",
+    "category": "dermatological",
+    "subcategory": "contact_dermatitis",
+    "visit_type": "urgent care",
+    "patient_age": 51,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0155",
+    "note_text": "Patient reports fatigue, weight gain, and feeling cold all the time. TSH 11.4 mIU/L, free T4 low. Started levothyroxine 50 mcg daily; recheck TSH in 6 weeks. No recent trauma or falls.",
+    "category": "endocrine",
+    "subcategory": "hypothyroidism",
+    "visit_type": "endocrinology consult",
+    "patient_age": 25,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0156",
+    "note_text": "GERD sx: regurgitation, epigastric burning, chronic cough. EGD: Los Angeles grade B esophagitis. GI referral for EGD given dysphagia. No recent trauma or falls.",
+    "category": "gastrointestinal",
+    "subcategory": "gerd",
+    "visit_type": "gastroenterology consult",
+    "patient_age": 55,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0157",
+    "note_text": "Patient reports an itchy red rash on hands after starting a new job using cleaning chemicals. Lichenified skin on dorsal hands. Well-demarcated erythematous plaques with vesicles in a linear pattern. Recommended protective gloves and fragrance-free emollients.",
+    "category": "dermatological",
+    "subcategory": "contact_dermatitis",
+    "visit_type": "primary care follow-up",
+    "patient_age": 58,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0158",
+    "note_text": "HTN f/u, compliant with lisinopril, occasional morning headaches. BMP: creatinine 1.0, potassium 4.2. BMI 32; no peripheral edema. Added hydrochlorothiazide 12.5 mg; home BP log requested.",
+    "category": "cardiovascular",
+    "subcategory": "hypertension_followup",
+    "visit_type": "telehealth visit",
+    "patient_age": 61,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0159",
+    "note_text": "Increased wheezing and dyspnea triggered by seasonal allergies; unable to speak full sentences on arrival. Prolonged expiratory phase; no crackles. Discharged with albuterol MDI and spacer; return if symptoms worsen.",
+    "category": "respiritory",
+    "subcategory": "asthma_exacerbation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 30,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0160",
+    "note_text": "",
+    "category": "dermatological",
+    "subcategory": "contact_dermatitis",
+    "visit_type": "dermatology consult",
+    "patient_age": 65,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0161",
+    "note_text": "63-year-old male. c/o shoulder pain at night, unable to lie on affected side; fell onto outstretched arm. MRI: partial-thickness supraspinatus tear. Active abduction limited to 100 degrees; passive ROM preserved. Positive Neer and Hawkins impingement signs; weak empty can test. Physical therapy for rotator cuff strengthening and scapular stabilization.",
+    "category": "musculoskeletal",
+    "subcategory": "rotator_cuff_injury",
+    "visit_type": "orthopedic consult",
+    "patient_age": 63,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0162",
+    "note_text": "77-year-old female. c/o severe HA x 6 hrs, photophobia, phonophobia; similar to prior migraines. MRI brain unremarkable. Headache diary shows 8 headache days per month. No meningismus; afebrile. IV fluids, metoclopramide, and ketorolac given in ED with relief. No loss of consciousness.",
+    "category": "neurological",
+    "subcategory": "migraine",
+    "visit_type": "primary care follow-up",
+    "patient_age": 77,
+    "patient_sex": "F"
+  },
+  {
+    "record_id": "MR0163",
+    "note_text": "S: Hypothyroidism follow-up on levothyroxine; feels sluggish. O: Thyroid gland mildly enlarged and nontender. Anti-TPO antibodies positive. A/P: Started levothyroxine 50 mcg daily; recheck TSH in 6 weeks.",
+    "category": "endocrine",
+    "subcategory": "hypothyroidism",
+    "visit_type": "endocrinology consult",
+    "patient_age": 69,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0164",
+    "note_text": "Diabetic patient with fasting sugars in the 200s on metformin. Fasting glucose 214 mg/dL; urine microalbumin elevated. Monofilament testing shows decreased sensation in bilateral feet. BMI 34; acanthosis nigricans on neck. Increase metformin to 1000 mg BID; added empagliflozin.",
+    "category": "endocrine",
+    "subcategory": "type2_diabetes",
+    "visit_type": "endocrinology consult",
+    "patient_age": 72,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0165",
+    "note_text": "Mild cough and congestion; patient requesting antibiotics. Pharynx mildly erythematous without exudate. Lungs clear to auscultation bilaterally. Afebrile, nontoxic appearing. Viral upper respiratory infection; supportive care with fluids, rest, and saline nasal spray. Denies chest pain.",
+    "category": "respiratory",
+    "subcategory": "viral_uri",
+    "visit_type": "telehealth visit",
+    "patient_age": 79,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0166",
+    "note_text": "58-year-old female. Patient says her neck has been sore and hard to turn since her car was hit from behind at a stoplight. Cervical spine X-ray: loss of normal lordosis, no fracture. Paraspinal cervical tenderness and trapezius spasm; no midline tenderness. Referred to physical therapy for cervical stabilization program.",
+    "category": "musculoskeletal",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "orthopedic consult",
+    "patient_age": 58,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0167",
+    "note_text": "Patient says her neck has been sore and hard to turn since her car was hit from behind at a stoplight. Neurovascularly intact in bilateral upper extremities. Heat, gentle range-of-motion exercises; follow up in 2 weeks. Denies dysuria or hematuria.",
+    "category": "musculoskeletal",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "chiropractic visit",
+    "patient_age": 77,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0168",
+    "note_text": "41-year-old male. Patient reports right knee pain and locking after twisting injury playing soccer. Knee X-ray: no fracture; mild joint space narrowing. Positive McMurray test medially; joint line tenderness. Ordered MRI of the knee to evaluate internal derangement. Denies numbness, tingling, or weakness.",
+    "category": "musculoskeletal",
+    "subcategory": "knee_meniscus_injury",
+    "visit_type": "orthopedic consult",
+    "patient_age": 41,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0169",
+    "note_text": "Patient says spicy food and coffee give him heartburn that wakes him up. EGD: Los Angeles grade B esophagitis. Cardiac workup negative for chest discomfort. Lifestyle modifications: elevate head of bed, avoid late meals.",
+    "category": "gastrointestinal",
+    "subcategory": "gerd",
+    "visit_type": "telehealth visit",
+    "patient_age": 61,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0170",
+    "note_text": "74yo M. Acute diarrhea after travel abroad. Hyperactive bowel sounds; no peritoneal signs. Stool PCR positive for norovirus. Viral gastroenteritis; oral rehydration and ondansetron. Denies chest pain.",
+    "category": "gastrointestinal",
+    "subcategory": "gastroenteritis",
+    "visit_type": "urgent care",
+    "patient_age": 74,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0171",
+    "note_text": "26yo F. Patient feels her heart is skipping and pounding, worse with caffeine. ECG: atrial fibrillation with ventricular rate 132, no P waves. TSH within normal limits. CHA2DS2-VASc score of 3. Metoprolol dose increased; cardiology referral for rhythm control discussion.",
+    "category": "cardiovascular",
+    "subcategory": "atrial_fibrillation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 26,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0172",
+    "note_text": "Patient says the red area on his leg is getting bigger and feels hot to touch. Ill-defined erythema with warmth, edema, and tenderness; margins marked. Admitted for IV cefazolin given systemic symptoms.",
+    "category": "dermatological",
+    "subcategory": "cellulitis",
+    "visit_type": "primary care follow-up",
+    "patient_age": null,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0173",
+    "note_text": "S: Patient reports a cut on the forearm from broken glass during a car accident. Denies dysuria or hematuria. O: Wound irrigated and explored; X-ray negative for glass fragments. 4 cm linear laceration, wound edges well approximated; no foreign body. A/P: Repaired with 6 simple interrupted 4-0 nylon sutures; suture removal in 10 days.",
+    "category": "dermatological",
+    "subcategory": "laceration",
+    "visit_type": "urgent care",
+    "patient_age": 23,
+    "patient_sex": "Female",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0174",
+    "note_text": "Work-related anxiety with irritability and fatigue. GAD-7 score 15. Started escitalopram 10 mg daily. Denies fever or chills.",
+    "category": "psychiatric",
+    "subcategory": "generalized_anxiety",
+    "visit_type": "primary care follow-up",
+    "patient_age": 54,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0175",
+    "note_text": "46-year-old male. Laceration over the eyebrow after being struck by a car door. Tendon function intact; no neurovascular deficit. Tdap booster administered; wound care instructions given.",
+    "category": "dermatological",
+    "subcategory": "laceration",
+    "visit_type": "ED visit",
+    "patient_age": 46,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0176",
+    "note_text": "55-year-old male. Patient says he worries about everything and feels on edge all the time. No substance use reported. GAD-7 score 15. Hydroxyzine as needed for acute anxiety.",
+    "category": "psychiatric",
+    "subcategory": "generalized_anxiety",
+    "visit_type": "primary care follow-up",
+    "patient_age": null,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0177",
+    "note_text": "Sudden dizziness, unsteady gait, and double vision. Carotid duplex: 70% right ICA stenosis. NIHSS 4 with right facial droop and pronator drift. MRI DWI shows small acute infarct in left corona radiata. Stroke alert activated; tPA administered within window. Denies chest pain.",
+    "category": "neurological",
+    "subcategory": "stroke_tia",
+    "visit_type": "neurology consult",
+    "patient_age": null,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0178",
+    "note_text": "Distal radius pain after bracing against the dashboard in a car crash. Anatomic snuffbox tenderness; initial scaphoid views negative. X-ray: displaced distal radius fracture with dorsal angulation (Colles fracture). Thumb spica splint and repeat X-ray in 10-14 days to rule out occult scaphoid fracture. Denies nausea or vomiting.",
+    "category": "musculoskeletal",
+    "subcategory": "wrist_fracture",
+    "visit_type": "orthopedic consult",
+    "patient_age": 33,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0179",
+    "note_text": "35yo F. Flank pain and pink urine since this morning. Urinalysis with microscopic hematuria. No recent trauma or falls.",
+    "category": "renal_urological",
+    "subcategory": "kidney_stone",
+    "visit_type": "ED visit",
+    "patient_age": 35,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0180",
+    "note_text": "S: Patient says it hurts to take a deep breath since he fell against a table edge. Denies nausea or vomiting. O: Point tenderness over left 5th and 6th ribs reproducing pain. A/P: Return if shortness of breath or worsening pain develops.",
+    "category": "musculoskeletal",
+    "subcategory": "chest_wall_contusion",
+    "visit_type": "primary care follow-up",
+    "patient_age": 57,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0181",
+    "note_text": "Exertional chest tightness over the past week now occurring at rest. ECG with ST elevation in II, III, aVF. BP 168/94, HR 102, diaphoretic. Admitted to telemetry for serial troponins and stress testing.",
+    "category": "cardiovascular",
+    "subcategory": "acute_coronary_syndrome",
+    "visit_type": "inpatient admission",
+    "patient_age": 34,
+    "patient_sex": null,
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0182",
+    "note_text": "Patient has a stuffy nose, post-nasal drip, and a tickly cough keeping her up at night. Pharynx mildly erythematous without exudate. Afebrile, nontoxic appearing. Antibiotics not indicated; discussed expected 7-10 day course.",
+    "category": "respiratory",
+    "subcategory": "viral_uri",
+    "visit_type": "urgent care",
+    "patient_age": 48,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0183",
+    "note_text": "55yo F. Patient says she has been very thirsty, urinating a lot, and her vision is blurry. Monofilament testing shows decreased sensation in bilateral feet.",
+    "category": "endocrine",
+    "subcategory": "type2_diabetes",
+    "visit_type": "primary care follow-up",
+    "patient_age": 55,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0184",
+    "note_text": "48-year-old male. Neck stiffness and trapezius tenderness after car accident; airbags deployed. Neurovascularly intact in bilateral upper extremities. Cervical ROM limited in rotation and extension; Spurling test negative. Diagnosed with cervical strain; NSAIDs, muscle relaxant, and physical therapy 2-3x/week.",
+    "category": "musculoskeletal",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "chiropractic visit",
+    "patient_age": 48,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0185",
+    "note_text": "Pt is a 28 y/o male. Lower back stiffness and soreness following a fall down the stairs. Lumbar paraspinal tenderness with muscle spasm; straight leg raise negative bilaterally. No saddle anesthesia or bowel/bladder changes. Return precautions reviewed for red flag symptoms. Denies fever or chills.",
+    "category": "musculoskeletal",
+    "subcategory": "lumbar_strain",
+    "visit_type": "physical therapy",
+    "patient_age": 28,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0186",
+    "note_text": "c/o increased SOB, change in sputum color, and wheeze; home O2 2L baseline. Diminished breath sounds with scattered wheezes; barrel chest. Started prednisone 40 mg x 5 days and doxycycline; continue tiotropium. No headache.",
+    "category": "respiratory",
+    "subcategory": "copd_exacerbation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 59,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0187",
+    "note_text": "Abdominal pain worse with walking and coughing; low-grade fever. Positive Rovsing sign. WBC 14.8; CT abdomen shows dilated appendix with periappendiceal fat stranding.",
+    "category": "gastrointestinal",
+    "subcategory": "appendicitis",
+    "visit_type": "inpatient admission",
+    "patient_age": 84,
+    "patient_sex": "F"
+  },
+  {
+    "record_id": "MR0188",
+    "note_text": "Painful arc and difficulty reaching behind back after seatbelt injury in MVC. Positive Neer and Hawkins impingement signs; weak empty can test. Tenderness over the greater tuberosity. Orthopedic referral for possible rotator cuff repair. Denies chest pain.",
+    "category": "musculoskeletal",
+    "subcategory": "rotator_cuff_injury",
+    "visit_type": "urgent care",
+    "patient_age": 64,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0189",
+    "note_text": "S: Patient says her vision went dark in one eye like a curtain coming down, then returned. Denies fever or chills. O: MRI DWI shows small acute infarct in left corona radiata. NIHSS 4 wiht right facial droop and pronator drift. A/P: Neurology consult; dual antiplatelet therapy for 21 days.",
+    "category": "neurological",
+    "subcategory": "stroke_tia",
+    "visit_type": "inpatient admission",
+    "patient_age": 24,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0190",
+    "note_text": "ED provider note. 41-year-old female, restrained driver in a two-vehicle T-bone collision at moderate speed; driver-side impact, airbags deployed, self-extricated, ambulatory at scene. Patient reports she struck her head on the driver-side window and is unsure whether she lost consciousness; she remembers the impact but not the minutes immediately afterward. Chief complaints are headache, dizziness, neck pain, chest soreness from the seatbelt, and low back pain. She describes the headache as a diffuse pressure, 6/10, with mild nausea and sensitivity to bright lights; no vomiting. Neck pain is posterior, worse with turning her head to the left, radiating to the trapezius bilaterally without arm numbness or weakness. Chest pain is anterior, sharp with deep inspiration, and reproducible with palpation along the seatbelt path. Low back pain is midline-adjacent, aching, without radiation into the legs, and without bowel or bladder changes. Past medical history notable for seasonal allergies only. Medications: cetirizine as needed. No known drug allergies listed. Exam: BP 138/84, HR 96, RR 18, SpO2 98% on room air. GCS 15. Pupils equal and reactive. Mild difficulty with tandem gait; delayed recall 2 of 5 words. Cervical paraspinal and trapezius tenderness with spasm, no midline cervical tenderness, ROM limited in rotation. Linear seatbelt ecchymosis from the left shoulder across the sternum with costochondral tenderness; lungs clear, no crepitus. Lumbar paraspinal tenderness, straight leg raise negative bilaterally, strength 5/5 in all extremities, sensation intact. Workup: CT head without contrast negative for hemorrhage or fracture. CT cervical spine negative for fracture; straightening of normal lordosis consistent with muscle spasm. Chest X-ray without rib fracture or pneumothorax. ECG normal sinus rhythm; troponin negative. Lumbar X-ray negative. Assessment: concussion without prolonged loss of consciousness; cervical strain (whiplash-associated disorder); chest wall contusion from seatbelt; acute lumbar strain. Plan: acetaminophen and ibuprofen alternating, cyclobenzaprine at bedtime, ice and heat, incentive spirometry. Concussion precautions provided; avoid driving and screen time for 48 hours with graded return to activity. Referral to physical therapy for neck and back, follow up with primary care in one week, neurology referral if symptoms persist beyond three weeks. Return precautions reviewed including worsening headache, repeated vomiting, confusion, weakness, or shortness of breath. Patient verbalized understanding and was discharged home with a family member.",
+    "category": "musculoskeletal",
+    "subcategory": "polytrauma_mvc",
+    "visit_type": "ED visit",
+    "patient_age": 41,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0191",
+    "note_text": "S: Intermittent knee pain after exercise with stiffness the next morning. O: MRI: horizontal tear of the posterior horn of the medial meniscus. A/P: Referred to orthopedics for arthroscopic evaluation.",
+    "category": "musculoskeletal",
+    "subcategory": "knee_meniscus_injury",
+    "visit_type": "ED visit",
+    "patient_age": 62,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0192",
+    "note_text": "Patient with COPD reports increased dyspnea and sputum volume over the last three days. ABG pH 7.34, pCO2 52. SpO2 88% on 2L nasal cannula. FEV1/FVC 0.58 on prior spirometry. Started prednisone 40 mg x 5 days and doxycycline; continue tiotropium.",
+    "category": "respiratory",
+    "subcategory": "copd_exacerbation",
+    "visit_type": "ED visit",
+    "patient_age": 37,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0193",
+    "note_text": "58-year-old female. Patient states her knee clicks and gets stuck when she straightens it. Knee X-ray: no fracture; mild joint space narrowing. Denies dysuria or hematuria.",
+    "category": "musculoskeletal",
+    "subcategory": "knee_meniscus_injury",
+    "visit_type": "ED visit",
+    "patient_age": 58,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0194",
+    "note_text": "S: Hashimoto thyroiditis with persistent fatigue and brain fog. O: Anti-TPO antibodies positive. Delayed relaxation of deep tendon reflexes. A/P: Levothyroxine dose increased to 88 mcg.",
+    "category": "endocrine",
+    "subcategory": "hypothyroidism",
+    "visit_type": "endocrinology consult",
+    "patient_age": 32,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0195",
+    "note_text": "25yo F. MDD follow-up on fluoxetine; partial response. Affect constricted; thought process linear. TSH normal. Referred to psychotherapy for cognitive behavioral therapy. No headache.",
+    "category": "psychiatric",
+    "subcategory": "depression",
+    "visit_type": "telehealth visit",
+    "patient_age": 25,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0196",
+    "note_text": "Patient says her skin is itchy and blistering where the new detergent touches. Lichenified skin on dorsal hands. Recommended protective gloves and fragrance-free emollients. No headache.",
+    "category": "dermatological",
+    "subcategory": "contact_dermatitis",
+    "visit_type": "dermatology consult",
+    "patient_age": 50,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0197",
+    "note_text": "68yo M. Diabetic patient with red, hot, swollen foot for 3 days. Lymphangitic streaking up the forearm. Ill-defined erythema with warmth, edema, and tenderness; margins marked. Admitted for IV cefazolin given systemic symptoms.",
+    "category": "dermatological",
+    "subcategory": "cellulitis",
+    "visit_type": "urgent care",
+    "patient_age": 68,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0198",
+    "note_text": "S: c/o severe HA x 6 hrs, photophobia, phonophobia; similar to prior migraines. Denies dysuria or hematuria. O: MRI brain unremarkable. No meningismus; afebrile. Neurologic exam normal; no papilledema. A/P: IV fluids, metoclopramide, and ketorolac given in ED with relief.",
+    "category": "neurological",
+    "subcategory": "migraine",
+    "visit_type": "neurology consult",
+    "patient_age": 82,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0199",
+    "note_text": "S: c/o crushing chest pain that started while shoveling snow, associated with nausea. Denies dysuria or hematuria. O: ECG shows ST depression in leads V4-V6. BP 168/94, HR 102, diaphoretic. A/P: Continue current management.",
+    "category": "cardiovascular",
+    "subcategory": "acute_coronary_syndrome",
+    "visit_type": "cardiology consult",
+    "patient_age": 24,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0200",
+    "note_text": "S: Elevated TSH found on routine labs; mild fatigue. O: TSH 11.4 mIU/L, free T4 low. A/P: Started levothyroxine 50 mcg daily; recheck TSH in 6 weeks.",
+    "category": "endocrine",
+    "subcategory": "hypothyroidism",
+    "visit_type": "primary care follow-up",
+    "patient_age": 70,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0201",
+    "note_text": "Pt is a 27 y/o male. c/o racing thoughts and inability to relax; trouble falling asleep. No substance use reported. GAD-7 score 15. Hydroxyzine as needed for acute anxiety.",
+    "category": "psychiatric",
+    "subcategory": "generalized_anxiety",
+    "visit_type": "behavioral health visit",
+    "patient_age": 27,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0202",
+    "note_text": "S: c/o acute LBP after slip and fall in grocery store; no radiation to legs. O: No saddle anesthesia or bowel/bladder changes. A/P: Return precautions reviewed for red flag symptoms.",
+    "category": "musculoskeletal",
+    "subcategory": "lumbar_strain",
+    "visit_type": "physical therapy",
+    "patient_age": 77,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0203",
+    "note_text": "48yo M. c/o hypervigilance, startling easily, and anxiety as a passenger since MVC. PCL-5 score 48, consistent with probable PTSD. Affect anxious; thought process linear. Mental status exam: alert, oriented, mood described as on edge. Referred for trauma-focused cognitive behavioral therapy.",
+    "category": "psychiatric",
+    "subcategory": "ptsd_post_accident",
+    "visit_type": "primary care follow-up",
+    "patient_age": 48,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0204",
+    "note_text": "S: GAD f/u; reports panic attacks with palpitations and shortness of breath. O: ECG normal; TSH normal. Fidgety and restless during interview. A/P: Started escitalopram 10 mg daily.",
+    "category": "psychiatric",
+    "subcategory": "generalized_anxiety",
+    "visit_type": "behavioral health visit",
+    "patient_age": 63,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0205",
+    "note_text": "S: c/o acute LBP after slip and fall in grocery store; no radiation to legs. Denies dysuria or hematuria. O: Lumbar paraspinal tenderness with muscle spasm; straight leg raise negative bilaterally. A/P: Physical therapy for core strengthening; avoid heavy lifting for 2 weeks.",
+    "category": "musculoskeletal",
+    "subcategory": "lumbar_strain",
+    "visit_type": "chiropractic visit",
+    "patient_age": 63,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0206",
+    "note_text": "Patient reports sore throat, runny nose, and mild cough for three days. Rapid strep and COVID-19 antigen tests negative. Antibiotics not indicated; discussed expected 7-10 day course.",
+    "category": "respiratory",
+    "subcategory": "viral_uri",
+    "visit_type": "urgent care",
+    "patient_age": 81,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0207",
+    "note_text": "50-year-old female. Depressed mood since job loss; decreased appetite and weight loss. PHQ-9 score 17, moderately severe depression. Started sertraline 50 mg; follow up in 4 weeks.",
+    "category": "psychiatric",
+    "subcategory": "depression",
+    "visit_type": "telehealth visit",
+    "patient_age": 50,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0208",
+    "note_text": "Burning pain in buttock and leg with foot weakness after slip and fall. MRI lumbar spine: L4-L5 disc herniation compressing the L5 nerve root. Referred for lumbar epidural steroid injection.",
+    "category": "neurological",
+    "subcategory": "lumbar_radiculopathy",
+    "visit_type": "neurology consult",
+    "patient_age": 30,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0209",
+    "note_text": "Patient says his lower back went out while bending to pick up his child. No saddle anesthesia or bowel/bladder changes. Lumbar X-ray: no fracture or listhesis.",
+    "category": "musculoskeletal",
+    "subcategory": "lumbar_strain",
+    "visit_type": "physical therapy",
+    "patient_age": 84,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0210",
+    "note_text": "59-year-old female. Patient reports wheezing and chest tightness that worsened over the past two days. Peak flow 55% of personal best. Diffuse expiratory wheezes bilaterally. Albuterol-ipratropium nebulizer given with improvement; started 5-day oral prednisone course.",
+    "category": "respiratory",
+    "subcategory": "asthma_exacerbation",
+    "visit_type": "urgent care",
+    "patient_age": 59,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0211",
+    "note_text": "27-year-old male. Wrist injury at work after ladder fall; pain with gripping. Neurovascularly intact distally; capillary refill under 2 seconds. Referred for ORIF given fracture displacement.",
+    "category": "musculoskeletal",
+    "subcategory": "wrist_fracture",
+    "visit_type": "urgent care",
+    "patient_age": 27,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0212",
+    "note_text": "Patient reports rolling her ankle stepping off a curb; pain and swelling on the outside of the ankle. Ottawa ankle rules negative; X-ray not indicated. Follow up if unable to bear weight after 1 week.",
+    "category": "musculoskeletal",
+    "subcategory": "ankle_sprain",
+    "visit_type": "urgent care",
+    "patient_age": 73,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0213",
+    "note_text": "   ",
+    "category": "respiratory",
+    "subcategory": "asthma_exacerbation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 32,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0214",
+    "note_text": "28yo F. Irregularly irregular pulse noted at routine visit; patient reports occasional lightheadedness. ECG: atrial fibrillation with ventricular rate 132, no P waves. Echocardiogram: left atrial enlargement, EF 55%. TSH within normal limits. Discussed stroke risk and bleeding precautions on anticoagulation. No headache.",
+    "category": "Cardiovascular",
+    "subcategory": "atrial_fibrillation",
+    "visit_type": "cardiology consult",
+    "patient_age": 28,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0215",
+    "note_text": "64-year-old male. c/o sciatica with numbness and tingling in the right calf after lifting injury. Decreased sensation over dorsum of foot; EHL weakness 4/5. MRI lumbar spine: L4-L5 disc herniation compressing the L5 nerve root. Lumbar radiculopathy; gabapentin and physical therapy.",
+    "category": "neurological",
+    "subcategory": "lumbar_radiculopathy",
+    "visit_type": "pain management",
+    "patient_age": 64,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0216",
+    "note_text": "Follow-up for atrial fibrillation on apixaban; no bleeding issues. CHA2DS2-VASc score of 3. Echocardiogram: left atrial enlargement, EF 55%. Discussed stroke risk and bleeding precautions on anticoagulation.",
+    "category": "cardiovascular",
+    "subcategory": "atrial_fibrillation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 76,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0217",
+    "note_text": "Patient feels very weak with a wet cough, sweats at night, and trouble catching his breath. Chest X-ray shows right lower lobe consolidation. Crackles at the right lower lung base with egophony. Repeat chest X-ray in 6 weeks to confirm resolution.",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "inpatient admission",
+    "patient_age": 27,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0218",
+    "note_text": "31-year-old male. AECOPD: increased sputum purulence and dyspnea, using inhalers more frequently. FEV1/FVC 0.58 on prior spirometry. ABG pH 7.34, pCO2 52. Titrate oxygen to SpO2 88-92%; nebulized bronchodilators every 4 hours.",
+    "category": "respiratory",
+    "subcategory": "copd_exacerbation",
+    "visit_type": "ED visit",
+    "patient_age": 31,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0219",
+    "note_text": "19-year-old male. Head injury during a football tackle; confusion and ringing in ears afterward. SCAT5 symptom score elevated; impaired delayed recall. Concussion; cognitive and physical rest followed by graded return to activity.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "ED visit",
+    "patient_age": 19,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0220",
+    "note_text": "  26-year-old female. worsening shortness of breath with fever and cough after recent flu-like illness. wbc 16.2 with left shift; procalcitonin elevated. repeat chest x-ray in 6 weeks to confirm resolution. no loss of consciousness  ",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "ED visit",
+    "patient_age": 26,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0221",
+    "note_text": "S: Patient says it is the worst pain of his life, coming in waves in his side. Denies chest pain. O: Urinalysis with microscopic hematuria. CT abdomen/pelvis without contrast: 5 mm stone at the right ureterovesical junction. A/P: Continue current management.",
+    "category": "renal_urological",
+    "subcategory": "kidney_stone",
+    "visit_type": "ED visit",
+    "patient_age": 59,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0222",
+    "note_text": "62-year-old male. Neck stiffness and trapezius tenderness after car accident; airbags deployed. Neurovascularly intact in bilateral upper extremities. Paraspinal cervical tenderness and trapezius spasm; no midline tenderness. Heat, gentle range-of-motion exercises; follow up in 2 weeks.",
+    "category": "musculoskeletal",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "urgent care",
+    "patient_age": 62,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0223",
+    "note_text": "S: Cloudy, foul-smelling urine with lower abdominal discomfort. Denies nausea or vomiting. O: Urine culture grew E. coli >100,000 CFU/mL. Urinalysis: positive leukocyte esterase and nitrites. A/P: Urology referral for recurrent infections.",
+    "category": "renal_urological",
+    "subcategory": "urinary_tract_infection",
+    "visit_type": "telehealth visit",
+    "patient_age": 71,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0224",
+    "note_text": "MDD follow-up on fluoxetine; partial response. PHQ-9 score 17, moderately severe depression. Psychomotor slowing noted. No headache.",
+    "category": "psychiatric",
+    "subcategory": "depression",
+    "visit_type": "behavioral health visit",
+    "patient_age": 30,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0225",
+    "note_text": "Patient reports fatigue, weight gain, and feeling cold all the time. Anti-TPO antibodies positive.",
+    "category": "endocrine",
+    "subcategory": "hypothyroidism",
+    "visit_type": "endocrinology consult",
+    "patient_age": 47,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0226",
+    "note_text": "77yo M. Post-traumatic stress symptoms 2 months after collision: avoidance, irritability, poor concentration. Affect anxious; thought process linear. Mental status exam: alert, oriented, mood described as on edge. PCL-5 score 48, consistent with probable PTSD. Gradual driving exposure plan discussed with therapist.",
+    "category": "psychiatric",
+    "subcategory": "ptsd_post_accident",
+    "visit_type": "behavioral health visit",
+    "patient_age": 77,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0227",
+    "note_text": "30yo F. Follow-up for high blood pressure; admits to high-salt diet and missed doses of amlodipine. BMI 32; no peripheral edema. BP 158/96 right arm seated, repeat 152/94. Increase lisinopril to 20 mg daily; recheck BP in 4 weeks. Denies dysuria or hematuria.",
+    "category": " cardiovascular ",
+    "subcategory": "hypertension_followup",
+    "visit_type": "primary care follow-up",
+    "patient_age": 30,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0228",
+    "note_text": "83yo F. Erythematous scaly rash on eyelids after using new cosmetics. No signs of secondary infection. Lichenified skin on dorsal hands. Patch testing positive for nickel sulfate. Recommended protective gloves and fragrance-free emollients. No headache.",
+    "category": "dermatological",
+    "subcategory": "contact_dermatitis",
+    "visit_type": "dermatology consult",
+    "patient_age": 83,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0229",
+    "note_text": "44yo M. Patient reports substernal chest pressure radiating to the left arm with diaphoresis. BP 168/94, HR 102, diaphoretic. Aspirin 325 mg given; heparin drip started; cardiology consulted for catheterization.",
+    "category": "cardiovascular",
+    "subcategory": "acute_coronary_syndrome",
+    "visit_type": "inpatient admission",
+    "patient_age": 44,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0230",
+    "note_text": "Pt is a 75 y/o female. Patient reports throbbing unilateral headache with nausea and sensitivity to light. Headache diary shows 8 headache days per month. Neurologic exam normal; no papilledema. MRI brain unremarkable. Started topiramate for migraine prophylaxis; counseled on triggers.",
+    "category": "neurological",
+    "subcategory": "migraine",
+    "visit_type": "neurology consult",
+    "patient_age": null,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0231",
+    "note_text": "72-year-old female. Recurrent migraines with visual aura of zigzag lines before headache onset. No meningismus; afebrile. Neurologic exam normal; no papilledema. Started topiramate for migraine prophylaxis; counseled on triggers. No chest pain or shortness of breath.",
+    "category": "neurological",
+    "subcategory": "migraine",
+    "visit_type": "primary care follow-up",
+    "patient_age": 72,
+    "patient_sex": "F"
+  },
+  {
+    "record_id": "MR0232",
+    "note_text": "60yo M. Post-traumatic stress symptoms 2 months after collision: avoidance, irritability, poor concentration. Affect anxious; thought process linear.",
+    "category": "psychiatric",
+    "subcategory": "ptsd_post_accident",
+    "visit_type": "primary care follow-up",
+    "patient_age": 60,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0233",
+    "note_text": "Pt is a 35 y/o male. Epigastric pain and belching after large meals. Epigastric tenderness to palpation; no rebound. EGD: Los Angeles grade B esophagitis.",
+    "category": "gastrointestinal",
+    "subcategory": "gerd",
+    "visit_type": "telehealth visit",
+    "patient_age": 35,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0234",
+    "note_text": "62-year-old female. Patient reports vomiting and watery diarrhea since last night. BMP: BUN 28, creatinine 1.1, consistent with mild dehydration. Return if bloody stools, high fever, or inability to keep fluids down.",
+    "category": "gastrointestinal",
+    "subcategory": "gastroenteritis",
+    "visit_type": "urgent care",
+    "patient_age": 62,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0235",
+    "note_text": "S: Patient reports wheezing and chest tightness that worsened over the past two days. O: Peak flow 55% of personal best. A/P: Continue current management.",
+    "category": "respiratory",
+    "subcategory": "asthma_exacerbation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 39,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0236",
+    "note_text": "Pt is a 45 y/o female. Patient reports spreading redness, warmth, and swelling of the lower leg. Ill-defined erythema with warmth, edema, and tenderness; margins marked. Temp 38.3 C; WBC 13.1. Cellulitis; cephalexin for 7 days; elevate extremity. Denies nausea or vomiting.",
+    "category": "dermatological",
+    "subcategory": "cellulitis",
+    "visit_type": "urgent care",
+    "patient_age": 45,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0237",
+    "note_text": "Rash under watch band and on earlobes; history of nickel sensitivity. Well-demarcated erythematous plaques with vesicles in a linear pattern. No signs of secondary infection. Recommended protective gloves and fragrance-free emollients.",
+    "subcategory": "contact_dermatitis",
+    "visit_type": "urgent care",
+    "patient_age": 28,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0238",
+    "note_text": "c/o knee swelling and catching sensation; struck dashboard in car accident. Moderate knee effusion; Lachman negative. Positive McMurray test medially; joint line tenderness. RICE, knee brace, and physical therapy for quadriceps strengthening.",
+    "category": "musculoskeletal",
+    "subcategory": "knee_meniscus_injury",
+    "visit_type": "urgent care",
+    "patient_age": 79,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0239",
+    "note_text": "83-year-old male. Chronic acid reflux despite over-the-counter antacids; occasional difficulty swallowing. H. pylori stool antigen negative. Epigastric tenderness to palpation; no rebound. GI referral for EGD given dysphagia. No headache.",
+    "category": "gastrointestinal",
+    "subcategory": "gerd",
+    "visit_type": "primary care follow-up",
+    "patient_age": 83,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0240",
+    "note_text": "Pt is a 25 y/o female. c/o nausea, abdominal cramping, and loose stools after eating at a buffet. Hyperactive bowel sounds; no peritoneal signs. Stool PCR positive for norovirus. Viral gastroenteritis; oral rehydration and ondansetron. Denies numbness, tingling, or weakness.",
+    "category": "gastrointestinal",
+    "subcategory": "gastroenteritis",
+    "visit_type": "ED visit",
+    "patient_age": 25,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0241",
+    "note_text": "Follow-up for diabetes mellitus with tingling in both feet. Hemoglobin A1c 9.2%. Annual dilated eye exam and podiatry referral.",
+    "category": "endocrine",
+    "subcategory": "type2_diabetes",
+    "visit_type": "endocrinology consult",
+    "patient_age": 52,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0242",
+    "note_text": "44yo M. Patient reports constant worry, restlessness, and muscle tension for over six months. GAD-7 score 15. Denies fever or chills.",
+    "category": "psychiatric",
+    "subcategory": "generalized_anxiety",
+    "visit_type": "behavioral health visit",
+    "patient_age": 44,
+    "patient_sex": "Male",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0243",
+    "note_text": "  whiplash-associated disorder following low-speed collision; pain worse with turning head. paraspinal cervical tenderness and trapezius spasm; no midline tenderness. neurovascularly intact in bilateral upper extremities. cervical rom limited in rotation and extension; spurling test negative. heat, gentle range-of-motion exercises; follow up in 2 weeks  ",
+    "category": "musculoskeletal",
+    "subcategory": "whiplash_cervical_strain",
+    "visit_type": "physical therapy",
+    "patient_age": 59,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0244",
+    "note_text": "Pt is a 76 y/o male. c/o fluttering in chest and fatigue; known paroxysmal AFib. Echocardiogram: left atrial enlargement, EF 55%. CHA2DS2-VASc score of 3. Discussed stroke risk and bleeding precautions on anticoagulation. Denies fever or chills.",
+    "category": "cardiovascular",
+    "subcategory": "atrial_fibrillation",
+    "visit_type": "primary care follow-up",
+    "patient_age": 76,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0245",
+    "note_text": null,
+    "category": "cardiovascular",
+    "subcategory": "hypertension_followup",
+    "visit_type": "primary care follow-up",
+    "patient_age": 25,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0246",
+    "note_text": "Records reviewed; no changes to current plan.",
+    "category": "general",
+    "subcategory": "administrative",
+    "visit_type": "telehealth visit",
+    "patient_age": 77,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0247",
+    "note_text": "39-year-old male. c/o feeling hopeless, fatigue, and difficulty concentrating at work. PHQ-9 score 17, moderately severe depression. Psychomotor slowing noted. Referred to psychotherapy for cognitive behavioral therapy.",
+    "category": "psychiatric",
+    "subcategory": "depression",
+    "visit_type": "telehealth visit",
+    "patient_age": 39,
+    "patient_sex": "Male",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0248",
+    "note_text": "30yo F. Writhing in pain with intermittent flank pain; history of kidney stones. Urinalysis with microscopic hematuria. CT abdomen/pelvis without contrast: 5 mm stone at the right ureterovesical junction. Ketorolac and tamsulosin for medical expulsive therapy; strain urine. Denies fever or chills.",
+    "category": "renal_urological",
+    "subcategory": "kidney_stone",
+    "visit_type": "ED visit",
+    "patient_age": 30,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0249",
+    "note_text": "22-year-old male. Infected-appearing skin around a recent laceration repair with drainage. Lymphangitic streaking up the forearm. Ill-defined erythema with warmth, edema, and tenderness; margins marked. Cellulitis; cephalexin for 7 days; elevate extremity. No recent trauma or falls.",
+    "category": "dermatological",
+    "subcategory": "cellulitis",
+    "visit_type": "primary care follow-up",
+    "patient_age": 22,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0250",
+    "note_text": "Patient reports right knee pain and locking after twisting injury playing soccer. MRI: horizontal tear of the posterior horn of the medial meniscus. Moderate knee effusion; Lachman negative. Referred to orthopedics for arthroscopic evaluation.",
+    "category": "MSK",
+    "subcategory": "knee_meniscus_injury",
+    "visit_type": "urgent care",
+    "patient_age": 23,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0251",
+    "note_text": "Pt is a 28 y/o male. Patient reports right shoulder pain and weakness lifting arm overhead. Active abduction limited to 100 degrees; passive ROM preserved. Tenderness over the greater tuberosity. Physical therapy for rotator cuff strengthening and scapular stabilization.",
+    "category": "musculoskeletal",
+    "subcategory": "rotator_cuff_injury",
+    "visit_type": "orthopedic consult",
+    "patient_age": 28,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0252",
+    "note_text": "30-year-old female. Patient says she has been very thirsty, urinating a lot, and her vision is blurry. BMI 34; acanthosis nigricans on neck.",
+    "category": "endocrine",
+    "subcategory": "type2_diabetes",
+    "visit_type": "endocrinology consult",
+    "patient_age": 30,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0253",
+    "note_text": "39yo F. Patient says she panics every time she hears tires screeching and won't drive on the highway anymore. Affect anxious; thought process linear. Sleep averaging 4 hours per night with frequent awakenings. Referred for trauma-focused cognitive behavioral therapy.",
+    "category": "psychiatric",
+    "subcategory": "ptsd_post_accident",
+    "visit_type": "behavioral health visit",
+    "patient_age": 39,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0254",
+    "note_text": "27yo F. Patient repots a cut on the forearm from broken glass during a car accident. Tetanus last given over 10 years ago. Tendon function intact; no neurovascular deficit. Skin adhesive applied; keep dry for 48 hours. No chest pian or shortness of breath.",
+    "category": "dermatological",
+    "subcategory": "laceration",
+    "visit_type": "ED visit",
+    "patient_age": 27,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0255",
+    "note_text": "33yo F. Patient says her headaches come monthly around her period and she has to lie in a dark room. MRI brain unremarkable. Headache diary shows 8 headache days per month. Started topiramate for migraine prophylaxis; counseled on triggers. No chest pain or shortness of breath.",
+    "category": "neurological",
+    "subcategory": "migraine",
+    "visit_type": "neurology consult",
+    "patient_age": 33,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0256",
+    "note_text": "",
+    "category": "psychiatric",
+    "subcategory": "generalized_anxiety",
+    "visit_type": "telehealth visit",
+    "patient_age": 63,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0257",
+    "note_text": "82-year-old female. c/o nasal congestion, sneezing, and scratchy throat; coworkers sick with similar symptoms. Rapid strep and COVID-19 antigen tests negative. Afebrile, nontoxic appearing. Pharynx mildly erythematous without exudate. Return if fever persists beyond 3 days or shortness of breath develops. No recent trauma or falls.",
+    "category": "respiratory",
+    "subcategory": "viral_uri",
+    "visit_type": "urgent care",
+    "patient_age": 82,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0258",
+    "note_text": "s/p MVC with brief LOC; c/o HA, nausea, and light sensitivity. Mild balance deficits on tandem gait. GCS 15; neuro exam nonfocal.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "primary care follow-up",
+    "patient_age": 77,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0259",
+    "note_text": "Pt is a 26 y/o female. c/o snuffbox tenderness after FOOSH while skateboarding. X-ray: displaced distal radius fracture with dorsal angulation (Colles fracture). Anatomic snuffbox tenderness; initial scaphoid views negative. Neurovascularly intact distally; capillary refill under 2 seconds. Closed reduction and sugar-tong splint applied; orthopedic follow-up in 1 week. Denies nausea or vomiting.",
+    "category": "musculoskeletal",
+    "subcategory": "wrist_fracture",
+    "visit_type": "urgent care",
+    "patient_age": 26,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0260",
+    "note_text": "Patient reports rolling her ankle stepping off a curb; pain and swelling on the outside of the ankle. Tenderness over the anterior talofibular ligament; no bony tenderness. Ottawa ankle rules negative; X-ray not indicated. Grade II lateral ankle sprain; RICE, air-cast brace, and weight bearing as tolerated. Denies numbness, tingling, or weakness.",
+    "category": "musculoskeletal",
+    "subcategory": "ankle_sprain",
+    "visit_type": "physical therapy",
+    "patient_age": 26,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0261",
+    "note_text": "75-year-old female. Patient presents for blood pressure follow-up; home readings averaging 150s/90s. BMP: creatinine 1.0, potassium 4.2. BMI 32; no peripheral edema. Increase lisinopril to 20 mg daily; recheck BP in 4 weeks. No recent trauma or falls.",
+    "category": "cardiovascular",
+    "subcategory": "hypertension_followup",
+    "visit_type": "primary care follow-up",
+    "patient_age": 75,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0262",
+    "note_text": "Patient reports low back pain after lifting a heavy box at work. Lumbar X-ray: no fracture or listhesis. Return precautions reviewed for red flag symptoms. Denies dysuria or hematuria.",
+    "category": "musculoskeletal",
+    "subcategory": "lumbar_strain",
+    "visit_type": "chiropractic visit",
+    "patient_age": 48,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0263",
+    "note_text": "22-year-old male. c/o snuffbox tenderness after FOOSH while skateboarding. X-ray: displaced distal radius fracture with dorsal angulation (Colles fracture). Closed reduction and sugar-tong splint applied; orthopedic follow-up in 1 week.",
+    "category": "musculoskeletal",
+    "subcategory": "wrist_fracture",
+    "visit_type": "ED visit",
+    "patient_age": 22,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0264",
+    "note_text": "67-year-old female. Patient reports severe colicky right flank pain radiating to the groin. Urinalysis with microscopic hematuria. Ketorolac and tamsulosin for medical expulsive therapy; strain urine.",
+    "category": "renal_urological",
+    "subcategory": "kidney_stone",
+    "visit_type": "ED visit",
+    "patient_age": 67,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0265",
+    "note_text": "Erythema and tenderness surrounding an insect bite on the thigh. Temp 38.3 C; WBC 13.1. Lymphangitic streaking up the forearm. Admitted for IV cefazolin given systemic symptoms.",
+    "category": "dermatological",
+    "subcategory": "cellulitis",
+    "visit_type": "primary care follow-up",
+    "patient_age": 44,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0266",
+    "note_text": "Common cold symptoms with low-grade fever and body aches. Lungs clear to auscultation bilaterally. Afebrile, nontoxic appearing. Rapid strep and COVID-19 antigen tests negative. Return if fever persists beyond 3 days or shortness of breath develops. No recent trauma or falls.",
+    "category": "respiratory",
+    "subcategory": "viral_uri",
+    "visit_type": "urgent care",
+    "patient_age": 54,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0267",
+    "note_text": "Pt seen. F/u 2 wks.",
+    "category": "general",
+    "subcategory": "administrative",
+    "visit_type": "primary care follow-up",
+    "patient_age": 54,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0268",
+    "note_text": "Patient feels very weak with a wet cough, sweats at night, and trouble catching his breath. Chest X-ray shows right lower lobe consolidation. Repeat chest X-ray in 6 weeks to confirm resolution. Denies dysuria or hematuria.",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "inpatient admission",
+    "patient_age": 77,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0269",
+    "note_text": "77-year-old male. Musculoskeletal chest pain after MVC; cardiac causes ruled out. Linear seatbelt sign ecchymosis across the chest; costochondral tenderness. ECG normal sinus rhythm; troponin negative x2. Return if shortness of breath or worsening pain develops.",
+    "category": "musculoskeletal",
+    "subcategory": "chest_wall_contusion",
+    "visit_type": "urgent care",
+    "patient_age": 77,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0270",
+    "note_text": "42-year-old female. Family noted facial droop and confusion starting 1 hour ago. MRI DWI shows small acute infarct in left corona radiata. CT head negative for hemorrhage; CTA with left MCA stenosis. TIA workup: admitted for MRI, echo, and telemetry; started aspirin and statin.",
+    "category": "neurological",
+    "subcategory": "stroke_tia",
+    "visit_type": "neurology consult",
+    "patient_age": 42,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0271",
+    "note_text": "60-year-old female. Pt c/o SOB, fatigue, productive cough x 5 days; febrile at home. Chest X-ray shows right lower lobe consolidation. WBC 16.2 with left shift; procalcitonin elevated.",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "urgent care",
+    "patient_age": 60,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0272",
+    "note_text": "MEDIAL KNEE PAIN WORSE WITH SQUATTING AND STAIRS; OCCASIONAL GIVING WAY. KNEE X-RAY: NO FRACTURE; MILD JOINT SPACE NARROWING.",
+    "category": "musculoskeletal",
+    "subcategory": "knee_meniscus_injury",
+    "visit_type": "orthopedic consult",
+    "patient_age": 62,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0273",
+    "note_text": "27-year-old female. Patient says she has been forgetting words and feels off balance since the accident. GCS 15; neuro exam nonfocal. CT head without contrast: no intracranial hemorrhage. Head injury precautions given; avoid screens and driving until cleared. Denies dysuria or hematuria.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "primary care follow-up",
+    "patient_age": 27,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0274",
+    "note_text": "24yo F. Patient presents for diabetes follow-up; reports increased thirst and frequent urination. Fasting glucose 214 mg/dL; urine microalbumin elevated. Increase metformin to 1000 mg BID; added empagliflozin. No recent trauma or falls.",
+    "category": "endocrine",
+    "subcategory": "type2_diabetes",
+    "visit_type": "primary care follow-up",
+    "patient_age": 24,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0275",
+    "note_text": "c/o acute L-sided numbness and difficulty finding words; last known well 2 hours prior. CT head negative for hemorrhage; CTA with left MCA stenosis. TIA workup: admitted for MRI, echo, and telemetry; started aspirin and statin.",
+    "category": "neurological",
+    "subcategory": "stroke_tia",
+    "visit_type": "neurology consult",
+    "patient_age": 37,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0276",
+    "note_text": "S: Persistent sadness and withdrawal from friends; oversleeping. No loss of consciousness. O: TSH normal. A/P: Increased fluoxetine to 40 mg; follow-up scheduled in 2 weeks.",
+    "category": "psychiatric",
+    "subcategory": "depression",
+    "visit_type": "behavioral health visit",
+    "patient_age": 26,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0277",
+    "note_text": "Epigastric pain and belching after large meals. H. pylori stool antigen negative. Cardiac workup negative for chest discomfort. EGD: Los Angeles grade B esophagitis. GI referral for EGD given dysphagia.",
+    "category": "gastrointestinal",
+    "subcategory": "gerd",
+    "visit_type": "gastroenterology consult",
+    "patient_age": 61,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0278",
+    "note_text": "Trauma-related anxiety and sleep disturbance following a fall from scaffolding. PCL-5 score 48, consistent with probable PTSD. Mental status exam: alert, oriented, mood described as on edge. Gradual driving exposure plan discussed with therapist.",
+    "category": "psychiatric",
+    "subcategory": "ptsd_post_accident",
+    "visit_type": "behavioral health visit",
+    "patient_age": 77,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0279",
+    "note_text": "Refill request processed per protocol.",
+    "category": "general",
+    "subcategory": "administrative",
+    "visit_type": "telehealth visit",
+    "patient_age": 38,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0280",
+    "note_text": "24yo F. Patient says she can't keep anything down and has been running to the bathroom all day. BMP: BUN 28, creatinine 1.1, consistent with mild dehydration. Viral gastroenteritis; oral rehydration and ondansetron.",
+    "category": "gastrointestinal",
+    "subcategory": "gastroenteritis",
+    "visit_type": "urgent care",
+    "patient_age": 24,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0281",
+    "note_text": "Patient says his stomach pain started around the belly button and moved to the lower right side. WBC 14.8; CT abdomen shows dilated appendix with periappendiceal fat stranding. Acute appendicitis; general surgery consulted for laparoscopic appendectomy.",
+    "category": "gastrointestinal",
+    "subcategory": "appendicitis",
+    "visit_type": "surgical consult",
+    "patient_age": 84,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0282",
+    "note_text": "S: Patient reports productive cough with yellow-green sputum, fever, and chills for four days. No headache. O: Temp 38.9 C, RR 24, SpO2 91% on room air. Chest X-ray shows right lower lobe consolidation. Crackles at the right lower lung base with egophony. A/P: Continue current management.",
+    "category": "respiratory",
+    "subcategory": "pneumonia",
+    "visit_type": "ED visit",
+    "patient_age": 70,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0283",
+    "note_text": "c/o dysuria, urgency, and suprapubic pain x 2 days. Suprapubic tenderness; no CVA tenderness. Urinalysis: positive leukocyte esterase and nitrites. Urine culture grew E. coli >100,000 CFU/mL. No headache.",
+    "category": "renal_urological",
+    "subcategory": "urinary_tract_infection",
+    "visit_type": "primary care follow-up",
+    "patient_age": 82,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0284",
+    "note_text": "37-year-old male. c/o lateral ankle pain after inversion injury playing basketball. Positive anterior drawer test. Ottawa ankle rules negative; X-ray not indicated. Tenderness over the anterior talofibular ligament; no bony tenderness. Follow up if unable to bear weight after 1 week.",
+    "category": "musculoskeletal",
+    "subcategory": "ankle_sprain",
+    "visit_type": "ED visit",
+    "patient_age": 37,
+    "patient_sex": "M",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0285",
+    "note_text": "Episodes of sudden intense fear with chest tightness and trembling. ECG normal; TSH normal. GAD-7 score 15. CBT referral and relaxation techniques discussed. No headache.",
+    "category": "psychiatric",
+    "subcategory": "generalized_anxiety",
+    "visit_type": "behavioral health visit",
+    "patient_age": 41,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0286",
+    "note_text": "Patient says reaching into the top cabinet causes sharp pain in her shoulder. Positive Neer and Hawkins impingement signs; weak empty can test. MRI: partial-thickness supraspinatus tear. Physical therapy for rotator cuff strengthening and scapular stabilization. No headache.",
+    "category": "musculoskeletal",
+    "subcategory": "rotator_cuff_injury",
+    "visit_type": "ED visit",
+    "patient_age": 35,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0287",
+    "note_text": "56-year-old male. c/o constipation, dry skin, and hair thinning over several months. TSH 11.4 mIU/L, free T4 low. Anti-TPO antibodies positive. Levothyroxine dose increased to 88 mcg. Denies chest pian.",
+    "category": "endocrine",
+    "subcategory": "hypothyroidism",
+    "visit_type": "endocrinology consult",
+    "patient_age": 56,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0288",
+    "note_text": "41-year-old male. Fatigue and swelling in both legs; ran out of furosemide last week. BNP 1,450 pg/mL. Chest X-ray: cardiomegaly with pulmonary vascular congestion. Bibasilar crackles; S3 gallop. Restarted guideline-directed therapy with sacubitril-valsartan and carvedilol. No headache.",
+    "category": "cardiovascular",
+    "subcategory": "heart_failure",
+    "visit_type": "inpatient admission",
+    "patient_age": 41,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0289",
+    "note_text": "S: Young adult with right lower abdominal pain and vomiting. O: Ultrasound: noncompressible appendix measuring 9 mm. Positive Rovsing sign. A/P: Underwent uncomplicated laparoscopic appendectomy.",
+    "category": "gastrointestinal",
+    "subcategory": "appendicitis",
+    "visit_type": "inpatient admission",
+    "patient_age": 134,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0290",
+    "note_text": "Patient says she has been forgetting words and feels off balance since the accident. Mild balance deficits on tandem gait. Denies dysuria or hematuria.",
+    "category": "neurological",
+    "subcategory": "concussion_tbi",
+    "visit_type": "ED visit",
+    "patient_age": 84,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0291",
+    "note_text": "53-year-old male. Patient reports substernal chest pressure radiating to the left arm with diaphoresis. ECG shows ST depression in leads V4-V6. Initial troponin 0.08 ng/mL, repeat rising. ECG with ST elevation in II, III, aVF.",
+    "category": "cardiovascular",
+    "subcategory": "acute_coronary_syndrome",
+    "visit_type": "inpatient admission",
+    "patient_age": 53,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0292",
+    "note_text": "URI sx x 4 days: rhinorrhea, sore throat, mild HA. Afebrile, nontoxic appearing. Antibiotics not indicated; discussed expected 7-10 day course.",
+    "category": "respiratory",
+    "subcategory": "viral_uri",
+    "visit_type": "urgent care",
+    "patient_age": 26,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0293",
+    "note_text": "Intrusive memories of a workplace accident with difficulty sleeping. PCL-5 score 48, consistent with probable PTSD. Referred for trauma-focused cognitive behavioral therapy. Denies numbness, tingling, or weakness.",
+    "category": "psychiatric",
+    "subcategory": "ptsd_post_accident",
+    "visit_type": "primary care follow-up",
+    "patient_age": "unknown",
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  },
+  {
+    "record_id": "MR0294",
+    "note_text": "66yo M. Writhing in pain with intermittent flank pain; history of kidney stones. Urinalysis with microscopic hematuria. CT abdomen/pelvis without contrast: 5 mm stone at the right ureterovesical junction. Urology consult for possible ureteroscopy.",
+    "category": "renal_urological",
+    "subcategory": "kidney_stone",
+    "visit_type": "urology consult",
+    "patient_age": 66,
+    "patient_sex": "M",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0295",
+    "note_text": "Patient says she is exhausted no matter how much she sleeps and has gained 15 pounds. Anti-TPO antibodies positive. Thyroid gland mildly enlarged and nontender. TSH 11.4 mIU/L, free T4 low. Started levothyroxine 50 mcg daily; recheck TSH in 6 weeks. No loss of consciousness.",
+    "category": "endocrine",
+    "subcategory": "hypothyroidism",
+    "visit_type": "endocrinology consult",
+    "patient_age": null,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0296",
+    "note_text": "Patient says nothing feels enjoyable anymore and she cries most days. Affect constricted; thought process linear. Started sertraline 50 mg; follow up in 4 weeks.",
+    "category": "psychiatric",
+    "subcategory": "depression",
+    "visit_type": "behavioral health visit",
+    "patient_age": 49,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0297",
+    "note_text": "60yo F. Recurrent migraines with visual aura of zigzag lines before headache onset. Neurologic exam normal; no papilledema. MRI brain unremarkable. IV fluids, metoclopramide, and ketorolac given in ED with relief. Denies numbness, tingling, or weakness.",
+    "category": "neurological",
+    "subcategory": "migraine",
+    "visit_type": "primary care follow-up",
+    "patient_age": 60,
+    "patient_sex": "F",
+    "source": "synthetic_clinical_notes"
+  },
+  {
+    "record_id": "MR0298",
+    "note_text": "S: Patient reports wrist pain and swelling after falling on an outstretched hand. O: Swelling and ecchymosis over dorsal wrist. Neurovascularly intact distally; capillary refill under 2 seconds. Anatomic snuffbox tenderness; initial scaphoid views negative. A/P: Continue current management.",
+    "category": "musculoskeletal",
+    "subcategory": "wrist_fracture",
+    "visit_type": "urgent care",
+    "patient_age": 50,
+    "patient_sex": "F",
+    "source": "synthetic_pi_case_files"
+  }
+]
