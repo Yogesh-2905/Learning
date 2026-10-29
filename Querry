@@ -1,0 +1,124 @@
+## Doubt 1: 
+If cosine similarity ranks records, why might irrelevant records appear first?
+
+
+Suppose your ground-truth relevant records are:  MR001, MR005, MR008
+
+You set \(k=5\), and your system returns these records in descending cosine similarity order.
+Rank	Record ID	Cosine similarity	Relevant?
+1	MR079	0.91	No
+2	MR005	0.86	Yes
+3	MR001	0.82	Yes
+4	MR042	0.79	No
+5	MR008	0.75	Yes
+
+Illustrative scores only; they are not calculated from your actual dataset.
+Why did MR079 rank first?
+Cosine similarity compares the query embedding with each record embedding. It does not know your ground-truth relevant record IDs.
+
+The embedding model might represent MR079 as semantically similar to the query, even though your dataset labels it as irrelevant.
+
+This can happen because:
+- The embedding model doesn't perfectly capture the meaning of the query.
+- A record may share related words but describe a different medical condition.
+- The ground-truth labels may not include every potentially relevant record.
+- The query or record text may not contain enough context.
+So, cosine similarity provides a ranking signal, not a guarantee of relevance.
+
+Your retrieval system then sorts records by their scores and selects the top \(k\).
+
+If the scores are [0.91, 0.86, 0.82, 0.79, 0.75], the top five are the five records with the highest scores. The ground-truth labels let you evaluate how good that ranking is.
+Doubt 2: Why don't we calculate \(2/4,\ 3/4,\ 5/4\) for MRR?
+This is the key concept to understand, Buddy.
+
+MRR considers only the position of the first relevant record for each query. It does not calculate a separate reciprocal rank for every relevant record.
+
+Using the example above:
+Rank	Record ID	Relevant?	MRR calculation
+1	MR079	No	—
+2	MR005	Yes	\(1/2=0.5\)
+3	MR001	Yes	Ignored by MRR
+4	MR042	No	—
+5	MR008	Yes	Ignored by MRR
+
+The first relevant record appears at position 2. Therefore:
+\[
+RR=\frac{1}{2}=0.5
+\]
+
+Why not \(2/4\), \(3/4\), or \(5/4\)?
+
+Because reciprocal rank means one divided by the rank, not the number of relevant records divided by a position.
+
+For instance, if the first relevant record is at rank 4:
+\[
+RR=\frac{1}{4}=0.25
+\]
+
+Even if more relevant records appear at ranks 5 and 6, the reciprocal rank remains \(1/4\).
+3. How does MRR average across all queries?
+This is where your understanding is almost correct.
+
+Suppose you have three queries, each with its own ranked retrieval results:
+Query	First relevant record's rank	Reciprocal rank
+Q001	2	\(1/2=0.5\)
+Q002	4	\(1/4=0.25\)
+Q003	1	\(1/1=1.0\)
+
+Now calculate the average:
+\[
+\begin{aligned}
+MRR &= \frac{0.5+0.25+1.0}{3}\\
+&= \frac{1.75}{3}\\
+&= \boxed{0.5833}
+\end{aligned}
+\]
+
+
+
+
+Original amountsEqual shares241
+
+
+
+\(\bar{x} = \frac{2 + 4 + 1}{3} = \frac{7}{3} = 2\ \frac{1}{3}\)
+x̄ is the arithmetic mean (simple average)
+
+\(x_1\)
+
+
+
+
+\(x_2\)
+
+
+
+
+\(x_3\)
+
+
+
+
+
+Remove valueAdd value
+
+
+
+
+
+Give feedback
+
+Notice that we first calculate one reciprocal rank per query. Then we average those values. We do not average the positions of all relevant records.
+4. But what if we want to evaluate all relevant records?
+Excellent question to ask next! MRR alone won't tell you whether all three relevant records were retrieved.
+
+For your medical retrieval system, these metrics serve different purposes:
+Metric	What it measures
+MRR@k	How early the first relevant record appears
+Precision@k	What proportion of the top-k records are relevant
+Recall@k	What proportion of all known relevant records were retrieved
+MAP@k	How well relevant records are ranked throughout the top-k results
+
+For your example, all three relevant records appear in the top five, but the first relevant result is at rank 2. So MRR@5 is \(0.5\), while Recall@5 is \(3/3=1.0\).
+
+Remember: MRR rewards finding the first relevant record early. If you want to evaluate the ranking of multiple relevant records, metrics such as MAP@k are more appropriate.
